@@ -1,0 +1,4918 @@
+[
+    {
+        "id": "00-bebl-joker",
+        "name": "Benjamin Blümchen - 00 - Benjamin Joker",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "06-schule",
+        "name": "Benjamin Blümchen - 06 - Die Schule",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "07-verliebt",
+        "name": "Benjamin Blümchen - 07 - Verliebt sich",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "08-auf-dem-baum",
+        "name": "Benjamin Blümchen - 08 - Auf dem Baum",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "12-brieftraeger",
+        "name": "Benjamin Blümchen - 12 - Als Briefträger",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "17-auf-skiurlaub",
+        "name": "Benjamin Blümchen - 17 - Auf Skiurlaub",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "18-schornsteinfeger",
+        "name": "Benjamin Blümchen - 18 - Schornsteinfeger",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "21-weihnachtsmann",
+        "name": "Benjamin Blümchen - 21 - Als Weihnachtsmann",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "22-kinderarzt",
+        "name": "Benjamin Blümchen - 22 - Als Kinderarzt",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "26-bademeister",
+        "name": "Benjamin Blümchen - 26 - Als Bademeister",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "27-auf-dem-bauernhof",
+        "name": "Benjamin Blümchen - 27 - Auf dem Bauernhof",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "28-kindergarten",
+        "name": "Benjamin Blümchen - 28 - Rettet den Kindergarten",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "31-feuerwehrmann",
+        "name": "Benjamin Blümchen - 31 - Als Feuerwehrmann",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "32-die-verkehrsschule",
+        "name": "Benjamin Blümchen - 32 - Die Verkehrsschule",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "34-lokomotivfuehrer",
+        "name": "Benjamin Blümchen - 34 - Als Lokomotivführer",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "45-zirkusclown",
+        "name": "Benjamin Blümchen - 45 - Als Zirkusclown",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "51-weihnachtsabend",
+        "name": "Benjamin Blümchen - 51 - Der Weihnachtsabend",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "52-weihnachtstraum",
+        "name": "Benjamin Blümchen - 52 - Der Weihnachtstraum",
+        "tracks": [],
+        "mode": "bebl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "01-fohlen",
+        "name": "Bibi und Tina - 01 - Das Fohlen",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "11-papis-pony",
+        "name": "Bibi und Tina - 11 - Papis Pony",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "13-wildpferde1",
+        "name": "Bibi und Tina - 13 - Die Wildpferde Teil 1",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "14-wildpferde2",
+        "name": "Bibi und Tina - 14 - Die Wildpferde Teil 2",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "15-der-rote-hahn",
+        "name": "Bibi und Tina - 15 - Der rote Hahn",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "16-knuddel",
+        "name": "Bibi und Tina - 16 - Alle lieben Knuddel",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "17-herbstturnier",
+        "name": "Bibi und Tina - 17 - Das Herbstturnier",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "20-mami-siegt",
+        "name": "Bibi und Tina - 20 - Mami siegt",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "22-mikosch-kehrt-zurueck",
+        "name": "Bibi und Tina - 22 - Mikosch kehrt zurück",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "23-ein-pferd-fuer-tante-paula",
+        "name": "Bibi und Tina - 23 - Ein Pferd für Tante Paula",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "25-weihnachtsfest",
+        "name": "Bibi und Tina - 25 - Das Weihnachtsfest",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "26-die-osterferien",
+        "name": "Bibi und Tina - 26 - Die Osterferien",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "27-der-pferdegeburtstag",
+        "name": "Bibi und Tina - 27 - Der Pferdegeburtstag",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "29-das-sprechende-pferd",
+        "name": "Bibi und Tina - 29 - Das sprechende Pferd",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "61-biber",
+        "name": "Bibi und Tina - 61 - Retten die Biber",
+        "tracks": [],
+        "mode": "bibi-tina",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "00-bob-joker",
+        "name": "Bob der Baumeister - 00 - Bob Joker",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "01-ein-tolles-team",
+        "name": "Bob der Baumeister - 01 - Ein tolles Team",
+        "tracks": [
+            "Stürmische Abenteuer",
+            "Bob zählt Elefanten"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "02-yo",
+        "name": "Bob der Baumeister - 02 - Yo, wir schaffen das",
+        "tracks": [
+            "Wendy zeigt was sie kann",
+            "Bob löst jedes Problem"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "03-alle-helfen-bob",
+        "name": "Bob der Baumeister - 03 - Alle helfen Bob",
+        "tracks": [
+            "Bob ist krank",
+            "Das Tunnelabenteuer"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "04-kuschel-sorgt-fuer-aufregung",
+        "name": "Bob der Baumeister - 04 - Kuschel sorgt für Aufregung",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "05-wendy-schafft-das",
+        "name": "Bob der Baumeister - 05 - Wendy schafft das",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "06-bobs-rettung",
+        "name": "Bob der Baumeister - 06 - Bobs Rettung",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "07-vogelbaby",
+        "name": "Bob der Baumeister - 07 - Mixi und das Vogelbaby",
+        "tracks": [
+            "Mixi und das Vogelbaby",
+            "Schlaflied für den Igel"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "08-bob-und-die-vogelscheuchen",
+        "name": "Bob der Baumeister - 08 - Bob und die Vogelscheuchen",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "09-mit-musik-geht-alles-besser",
+        "name": "Bob der Baumeister - 09 - Mit Musik geht alles besser",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "10-bob-hilft-den-tieren",
+        "name": "Bob der Baumeister - 10 - Bob hilft den Tieren",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "11-hurra-es-schneit",
+        "name": "Bob der Baumeister - 11 - Hurra es schneit",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "12-bob-der-entdecker",
+        "name": "Bob der Baumeister - 12 - Bob der Entdecker",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "13-alles-wird-gut",
+        "name": "Bob der Baumeister - 13 - Alles wird gut",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "14-bobs-bunte-welt",
+        "name": "Bob der Baumeister - 14 - Bobs bunte Welt",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "15-gemeinsam-sind-wir-stark",
+        "name": "Bob der Baumeister - 15 - Gemeinsam sind wir stark",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "16-katzen-und-hunde",
+        "name": "Bob der Baumeister - 16 - Katzen und Hunde",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "17-hoch-hinaus",
+        "name": "Bob der Baumeister - 17 - Hoch hinaus",
+        "tracks": [
+            "Freunde mit Flügeln",
+            "Fußball für Könner"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "19-schreck-lass-nach",
+        "name": "Bob der Baumeister - 19 - Schreck lass nach",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "20-bobs-team",
+        "name": "Bob der Baumeister - 20 - Bobs Team schafft das",
+        "tracks": [
+            "Wendy ist die Beste",
+            "Ohne Conti geht nichts!!"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "21-bobs-entwurf",
+        "name": "Bob der Baumeister - 21 - Bobs toller Entwurf",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "22-auf-ins-sonnenblumental",
+        "name": "Bob der Baumeister - 22 - Auf ins Sonnenblumental",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "23-aufregung-im-sonnenblumental",
+        "name": "Bob der Baumeister - 23 - Aufregung im Sonnenblumental",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "24-neue-alte-freunde",
+        "name": "Bob der Baumeister - 24 - Neue und alte Freunde",
+        "tracks": [
+            "Rollos neuer Freund",
+            "Benny - Große Banane"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "name": "Bob der Baumeister - 25 - Knolle und die Strohballen",
+        "id": "25-knolle-und-die-strohballen",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "26-buddels-lehmhuette",
+        "name": "Bob der Baumeister - 26 - Buddels Lehmhütte",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "27-wendys-party",
+        "name": "Bob der Baumeister - 27 - Wendys Party",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "28-bau-es-zusammen-knolle",
+        "name": "Bob der Baumeister - 28 - Bau es zusammen Knolle",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "29-mixi-spielt-detektiv",
+        "name": "Bob der Baumeister - 29 - Mixi spielt Detektiv",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "30-sprinti-und-die-bunte-hoehle",
+        "name": "Bob der Baumeister - 30 - Sprinti und die bunte Höhle",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "31-knolles-grosse-ernte",
+        "name": "Bob der Baumeister - 31 - Knolles große Ernte",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "32-spielplatz",
+        "name": "Bob der Baumeister - 32 - Der Spielplatz",
+        "tracks": [
+            "Der Spielplatz",
+            "Anführer Buddel"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "34-kratzers-erster-tag",
+        "name": "Bob der Baumeister - 34 - Kratzers erster Tag",
+        "tracks": [
+            "Kratzers erster Tag",
+            "Kratzer der Schauspieler"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "35-baggis-seerettung",
+        "name": "Bob der Baumeister - 35 - Baggis Seerettung",
+        "tracks": [
+            "Baggis Seerettung",
+            "Baggis Sandsturm"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "36-kratzers-nickerchen",
+        "name": "Bob der Baumeister - 36 - Kratzers Nickerchen",
+        "tracks": [
+            "Kratzer startet durch",
+            "Kratzers Nickerchen"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "37-heppo-und-das-monster",
+        "name": "Bob der Baumeister - 37 - Heppo und das Monster",
+        "tracks": [
+            "Heppo und das Monster",
+            "Heppos hilfsbereiter Tag"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "99-bob-hilft-dem-weihnachtsmann",
+        "name": "Bob der Baumeister - 99 - Bob hilft dem Weihnachtsmann",
+        "tracks": [],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "das-aufraeumspiel",
+        "name": "Bob der Baumeister - Das Aufräumspiel",
+        "tracks": [
+            "Das Aufräumspiel",
+            "Summ, Summ, Summ (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "frau-toepfers-brunnen",
+        "name": "Bob der Baumeister - Frau Töpfers Brunnen",
+        "tracks": [
+            "Frau Töpfers Brunnen",
+            "Heut ist ein Fest bei den Fröschen am See (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "bob-und-das-tapeten-chaos",
+        "name": "Bob der Baumeister - Bob und das Tapeten-Chaos",
+        "tracks": [
+            "Bob und das Tapeten-Chaos",
+            "Zeigt her eure Füße (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "heppo-und-der-rechts-hebe-trick",
+        "name": "Bob der Baumeister - Heppo und der Rechts-Hebe-Trick",
+        "tracks": [
+            "Heppo und der Rechts-Hebe-Trick",
+            "Alle meine Entchen (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "feder-der-retter",
+        "name": "Bob der Baumeister - Feder der Retter",
+        "tracks": [
+            "Feder der Retter",
+            "Alle Vögel sind schon da (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "knolle-sucht-die-schrauben",
+        "name": "Bob der Baumeister - Knolle sucht die Schrauben",
+        "tracks": [
+            "Knolle sucht die Schrauben",
+            "Ein Männlein steht im Walde (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "kuschel-und-das-dorffest",
+        "name": "Bob der Baumeister - Kuschel und das Dorffest",
+        "tracks": [
+            "Kuschel und das Dorffest",
+            "Der Katzentanz (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "wendy-sorgt-fuer-sicherheit",
+        "name": "Bob der Baumeister - Wendy sorgt für Sicherheit",
+        "tracks": [
+            "Wendy sorgt für Sicherheit",
+            "Drei Chinesen mit dem Kontrabass (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "herr-brauers-rosenstock",
+        "name": "Bob der Baumeister - Herr Brauers Rosenstock",
+        "tracks": [
+            "Herr Brauers Rosenstock",
+            "Kuckuck Kuckuck (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "name": "Bob der Baumeister - Knolle und die verkohlte Pizza",
+        "id": "knolle-und-die-verkohlte-pizza",
+        "tracks": [
+            "Knolle und die verkohlte Pizza",
+            "Feuer wer (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "rollos-strassenlaterne",
+        "name": "Bob der Baumeister - Rollos Straßenlaterne",
+        "tracks": [
+            "Rollos Straßenlaterne",
+            "Ich geh' mit meiner Laterne (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "heppos-schwertransport",
+        "name": "Bob der Baumeister - Heppos Schwertransport",
+        "tracks": [
+            "Heppos Schwertransport",
+            "Am Brunnen vor dem Tore (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "bobs-neue-schuhe",
+        "name": "Bob der Baumeister - Bobs neue Schuhe",
+        "tracks": [
+            "Bobs neue Schuhe",
+            "Brüderchen, komm tanz mit mir (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "chaos-in-der-scheune",
+        "name": "Bob der Baumeister - Chaos in der Scheune",
+        "tracks": [
+            "Chaos in der Scheune",
+            "Onkel Jörg hat einen Bauernhof (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "das-grossreinemachen",
+        "name": "Bob der Baumeister - Das Großreinemachen",
+        "tracks": [
+            "Das Großreinemachen",
+            "Das Zahnputzlied (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "knolle-faehrt-zu-schnell",
+        "name": "Bob der Baumeister - Knolle fährt zu schnell",
+        "tracks": [
+            "Knolle fährt zu schnell",
+            "Zerbrasteifen (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "heppo-und-der-hitzschlag",
+        "name": "Bob der Baumeister - Heppo und der Hitzschlag",
+        "tracks": [
+            "Heppo und der Hitzschlag",
+            "Das Sommertagslied (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "bubbdel-und-der-sturm",
+        "name": "Bob der Baumeister - Bubbdel und der Sturm",
+        "tracks": [
+            "Buddel und der Sturm",
+            "Holt die goldnen Garben (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "der-wasserschaden-bei-frau-toepfer",
+        "name": "Bob der Baumeister - Der Wasserschaden bei Frau Töpfer",
+        "tracks": [
+            "Der Wasserschaden bei Frau Töpfer",
+            "Morgen früh um sechs kommt die kleine Hex (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "ein-schoener-garten-fuer-lenny",
+        "name": "Bob der Baumeister - Ein schöner Garten für Lenny",
+        "tracks": [
+            "Ein schöner Garten für Lenny",
+            "Vögel singen, Blumen blühen (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "wendys-verkehrsschule",
+        "name": "Bob der Baumeister - Wendys Verkehrsschule",
+        "tracks": [
+            "Wendys Verkehrsschule",
+            "Mein Weg zur Schule (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "knolles-ueberraschung",
+        "name": "Bob der Baumeister - Knolles Überraschung",
+        "tracks": [
+            "Knolles Überraschung",
+            "Winter ade (Lied)"
+        ],
+        "mode": "bob",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "tv-01",
+        "name": "Bobo Siebenschläfer - TV 01 - Geht in den Zoo",
+        "tracks": [
+            "Bobo geht in den Zoo",
+            "Bobo baut eine Höhle",
+            "Bobo geht in den Supermarkt",
+            "Bobo geht auf den Kinderbauernhof",
+            "Bobo feiert Geburtstag",
+            "Bobo im Freibad"
+        ],
+        "mode": "bobo",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "tv-02",
+        "name": "Bobo Siebenschläfer - TV 02 - Kann nicht einschlafen",
+        "tracks": [
+            "Bobo kann nicht einschlafen",
+            "Bobo fährt Zug",
+            "Bobo auf der Kirmes",
+            "Bobo und die Babysitterin",
+            "Bobo am Strand",
+            "Bobo baut einen Turm",
+            "Auf dem Spielplatz"
+        ],
+        "mode": "bobo",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "kindergarten",
+        "name": "Bobo Siebenschläfer - Willkommen im Kindergarten",
+        "tracks": [
+            "Bobo geht einkaufen",
+            "Besser geht es mit Musik",
+            "Der erste Kindergarten-Tag",
+            "Kleiner Mann will tanzen",
+            "Das neue Kind",
+            "Farbenlied",
+            "Der Ausflug"
+        ],
+        "mode": "bobo",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "draussen",
+        "name": "Bobo Siebenschläfer - Draußen ist es schön",
+        "tracks": [
+            "Sommerzeit ist Beerenzeit",
+            "Die Sonne steht hoch",
+            "Eine Höhle im Wald",
+            "Kleine Helden im Wald",
+            "Zelten am See",
+            "Kumbaya",
+            "In den Bergen"
+        ],
+        "mode": "bobo",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "bobo-beste",
+        "name": "Bobo Siebenschläfer - Das Beste von Bobo",
+        "tracks": [
+            "Bobo geht einkaufen",
+            "Bobo ist krank",
+            "Bobo bei der Großmutter",
+            "Bobo und der Schlüssel Krik Krak",
+            "Bobo und die Grillparty",
+            "Bobo feiert Mamas Geburtstag",
+            "Bobo im Schnee",
+            "Bobos Weihnachten"
+        ],
+        "mode": "bobo",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "bobo-wird-nicht-muede",
+        "name": "Bobo Siebenschläfer - Bobo wird nicht müde",
+        "tracks": [
+            "Bobo und der Schlüssel Krik Krak",
+            "Bobo und die Grillparty",
+            "Bobo und sein Großvater",
+            "Bobos Faulenzermorgen",
+            "Bobo sagt 'Tut nicht weh!'",
+            "Bobo und der Kartonzug",
+            "Bobo beim Kindergartenfest",
+            "Lied für Bobo"
+        ],
+        "mode": "bobo",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "01-kommt-in-den-kindergarten-und-macht-das-seepferdchen",
+        "name": "Conni - 01 - Kommt in den Kindergarten & Macht das Seepferdchen",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "02-geht-zum-arzt-und-geht-in-die-schule",
+        "name": "Conni - 02 - Geht zum Arzt & Geht in die Schule",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "03-auf-dem-bauernhof-und-das-neue-baby",
+        "name": "Conni - 03 - Auf dem Bauernhof & Das neue Baby",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "04-lernt-reiten-und-geht-zelten",
+        "name": "Conni - 04 - Lernt reiten & Geht zelten",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "05-erster-flug-und-geht-zum-zahnarzt",
+        "name": "Conni - 05 - Connis erster Flug & Geht zum Zahnarzt",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "06-feiert-weihnachten-und-faehrt-ski",
+        "name": "Conni - 06 - Feiert Weihnachten & Fährt Ski",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "07-zieht-um-und-macht-musik",
+        "name": "Conni - 07 - Zieht um & Macht Musik",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "08-backt-pizza-und-lernt-rad-fahren",
+        "name": "Conni - 08 - Backt Pizza & Lernt Rad fahren",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "09-im-krankenhaus-und-lernt-tanzen",
+        "name": "Conni - 09 - Im Krankenhaus & Lernt tanzen",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "10-der-osterhase-und-spielt-fussball",
+        "name": "Conni - 10 - Der Osterhase & Spielt Fußball",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "11-bekommt-eine-katze-und-hat-geburtstag",
+        "name": "Conni - 11 - Bekommt eine Katze & Hat Geburtstag",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "12-auf-dem-reiterhof",
+        "name": "Conni - 12 - Auf dem Reiterhof",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "13-der-liebesbrief",
+        "name": "Conni - 13 - Der Liebesbrief",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "14-reist-ans-mittelmeer",
+        "name": "Conni - 14 - Reist ans Mittelmeer",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "15-geht-auf-klassenfahrt",
+        "name": "Conni - 15 - Geht auf Klassenfahrt",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "16-feiert-geburtstag",
+        "name": "Conni - 16 - FHat Geburtstag",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "17-der-verschwundene-hund",
+        "name": "Conni - 17 - Der verschwundene Hund",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "18-rettet-oma",
+        "name": "Conni - 18 - Rettet Oma",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "19-lernt-backen-und-hilft-mama",
+        "name": "Conni - 19 - Lernt backen & Hilft Mama",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "20-das-geheimnis-der-koi",
+        "name": "Conni - 20 - Das Geheimnis der Koi",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "21-schlaeft-im-kindergarten-und-geht-in-den-zoo",
+        "name": "Conni - 21 - Schläft im Kindergarten & Geht in den Zoo",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "22-die-jungs-von-nebenan",
+        "name": "Conni - 22 - Die Jungs von nebenan",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "23-das-ganz-spezielle-weihnachtsfest",
+        "name": "Conni - 23 - Das ganz spezielle Weihnachtsfest",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "24-das-hochzeitsfest",
+        "name": "Conni - 24 - Das Hochzeitsfest",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "25-in-der-grossen-stadt",
+        "name": "Conni - 25 - In der großen Stadt",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "26-die-verflixte-13",
+        "name": "Conni - 26 - Die verflixte 13",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "27-der-dinoknochen",
+        "name": "Conni - 27 - Der Dinoknochen",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "28-das-tanzende-pony",
+        "name": "Conni - 28 - Das tanzende Pony",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "29-der-grosse-schnee",
+        "name": "Conni - 29 - Der große Schnee",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "30-in-den-bergen-und-geht-verloren",
+        "name": "Conni - 30 - In den Bergen & Geht verloren",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "31-ist-krank-und-beim-frisoer",
+        "name": "Conni - 31 - Ist krank & Beim Frisör",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "32-rettet-die-tiere",
+        "name": "Conni - 32 - Rettet die Tiere",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "33-die-detektive",
+        "name": "Conni - 33 - Die Detektive",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "34-ihr-lieblingspony-und-geht-laterne-laufen",
+        "name": "Conni - 34 - Ihr Lieblingspony & Geht Laterne laufen",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "35-der-ferienzirkus",
+        "name": "Conni - 35 - Der Ferienzirkus",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "36-die-burg-der-vampire",
+        "name": "Conni - 36 - Die Burg der Vampire",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "37-uebernachtet-bei-julia-und-geht-nicht-mit-fremden-mit",
+        "name": "Conni - 37 - Übernachtet bei Julia & Geht nicht mit Fremden mit",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "38-macht-einen-ausflug-und-geht-auf-reisen",
+        "name": "Conni - 38 - Macht einen Ausflug & Geht auf Reisen",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "39-die-grosse-eiszeit",
+        "name": "Conni - 39 - Die große Eiszeit",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "40-das-neue-fohlen",
+        "name": "Conni - 40 - Das neue Fohlen",
+        "tracks": [],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "99-ich-mach-so-gern-musik",
+        "name": "Conni - 99 - Ich mach so gern Musik",
+        "tracks": [
+            "Ich mach so gern Musik",
+            "In die Schule gehen",
+            "Flecki und ich",
+            "Heut ist dein Geburtstag",
+            "So ein Fahrrad ist viel toller",
+            "Meine beste Freundin",
+            "Endlich Ferien",
+            "Kater Mau",
+            "Ich spiel so gerne Fußball",
+            "Tanzen macht Spaß",
+            "Zahnarzt",
+            "Wenn es draußen kalt wird",
+            "Kleine Brüder",
+            "Hurra, wir backen Pizza",
+            "Teddy"
+        ],
+        "mode": "conni",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "emil-gruenbaer",
+        "name": "Janosch - Emil Grünbär und seine Bande",
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "gesund",
+        "name": "Janosch - Ich mach dich gesund",
+        "tracks": [
+            "Ich mach dich gesund, sagte der Bär",
+            "Herr Wuzzel und sein Karussell"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "hasenkinder",
+        "name": "Janosch - Hasenkinder sind nicht dumm",
+        "tracks": [
+            "Hasenkinder sind nicht dumm",
+            "Kleiner Hase Baldrian"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "kasper-muetze",
+        "name": "Janosch - Kasper Mütze",
+        "tracks": [
+            "Kasper Mütze",
+            "Der Frosch ist ein Großmaul",
+            "Der Wettlauf zwischen Hase und Igel",
+            "Hasenmotor, Antrieb vorn"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "kleines-schweinchen",
+        "name": "Janosch - Guten Tag kleines Schweinchen",
+        "tracks": [
+            "Guten Tag kleines Schweinchen",
+            "Kleines Schweinchen großer König",
+            "Das Schweinchen und der Wolf"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "post-tiger",
+        "name": "Janosch - Post für den Tiger",
+        "tracks": [
+            "Post für den Tiger",
+            "Komm wir finden einen Schatz"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "riesenparty",
+        "name": "Janosch - Riesenparty für den Tiger",
+        "tracks": [
+            "Riesenparty für den Tiger",
+            "Das Lumpengesindel",
+            "Herr Korbes will Klein Hühnchen küssen"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schnuddelgeschichten",
+        "name": "Janosch - Schnuddelgeschichten",
+        "tracks": [
+            "Honigblumen schmecken süß",
+            "Wolkenzimmerhaus",
+            "Schnuddel fängt einen Hasen",
+            "Oh wie einsam ist die Luft"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "traumstunde",
+        "name": "Janosch - Traumstunde für Siebenschläfer",
+        "tracks": [
+            "Traumstunde für Siebenschläfer",
+            "Oh, wie schön ist Panama"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "emil-gruenbaer-frosch",
+        "name": "Janosch - Emil Grünbär - Der Frosch sitzt auf der Ofenbank",
+        "tracks": [],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "emil-gruenbaer-pflaumenkuchen",
+        "name": "Janosch - Emil Grünbär - Pflaumenkuchen für Rebellen",
+        "tracks": [],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "froschkoenig",
+        "name": "Janosch - Der Froschkönig",
+        "tracks": [
+            "Der Froschkönig",
+            "Die Tigerente und der Frosch",
+            "Der Frosch, der fliegt",
+            "Der Frosch und die Ziege"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "kuemmel",
+        "name": "Janosch - Lukas Kümmel",
+        "tracks": [
+            "Lukas Kümmel",
+            "Die Schneckenbahn hat 12 Stationen"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "loewenzahn",
+        "name": "Janosch - Löwenzahn und Seidenpfote",
+        "tracks": [
+            "Löwenzahn und Seidenpfote",
+            "Der Hase Robinson",
+            "Der Esel und die Eule"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "neue-hasenkinder",
+        "name": "Janosch - Die neuen Hasenkinder",
+        "tracks": [],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "rabe-josef",
+        "name": "Janosch - Der Rabe Josef",
+        "tracks": [],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schneemann",
+        "name": "Janosch - Ach lieber Schneemann",
+        "tracks": [
+            "Ach lieber Schneemann",
+            "Komm nach Iglau, Krokodil",
+            "Bärenzirkus Zampano"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schnuddel-hoerbuch",
+        "name": "Janosch - Das große Schnuddel Hörbuch",
+        "tracks": [
+            "Schnuddel mit dem großen Hut",
+            "Honigblumen schmecken süß",
+            "Oh eine Botschaft",
+            "Was einen Schnuddel lustig macht",
+            "Schnuddel fängt einen Fisch",
+            "Kanarienvogels schönste Leib- und Königspeise",
+            "Wer besiegt den wilden Hund (Puschkin)",
+            "Schnuddelbuddel baut ein Haus",
+            "Wandertag nach Paderborn",
+            "Schnuddelbuddel fängt einen Hasen",
+            "Ein Kanarienvogelfederbaum",
+            "Hasenfutter eins zwei drei",
+            "Der Fuchs und der Hase",
+            "Kleiner Hase - Große Maus",
+            "Häschen in der Grube",
+            "Komm wir spielen Fang das Lieschen",
+            "Abzähler",
+            "Unser guter Onkel Dachs",
+            "Reite reite Häschen",
+            "Op uen schniewiesse Gans",
+            "Der Hase und der Fuchs",
+            "Abzähler",
+            "Alle Häslein singen leise",
+            "Der kluge Hahn",
+            "Der Vater und seine Kinder"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schiff-pyjamahose",
+        "name": "Janosch - Hallo Schiff Pyjamahose",
+        "tracks": [
+            "Hallo Schiff Pyjamahose",
+            "Das Regenauto",
+            "Das Geheimnis des Herrn Schmidt"
+        ],
+        "mode": "janosch",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "01-will-nicht-essen",
+        "name": "Leo Lausemaus - 01 - Will nicht essen",
+        "tracks": [
+            "Will nicht essen",
+            "Sagt nicht die Wahrheit",
+            "Hat schlechte Laune",
+            "Will nicht schlafen"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "02-will-nicht-in-den-kindergarten",
+        "name": "Leo Lausemaus - 02 - Will nicht in den Kindergarten",
+        "tracks": [
+            "Will nicht in den Kindergarten",
+            "Mama geht zur Arbeit",
+            "Allein bei den Großeltern",
+            "Wünscht sich ein Geschwisterchen"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "03-will-nicht-zaehne-putzen",
+        "name": "Leo Lausemaus - 03 - Will sich nicht die Zähne putzen",
+        "tracks": [
+            "Will sich nicht die Zähne putzen",
+            "Hat Geburtstag",
+            "Will nicht verreisen",
+            "Der Schlafgut-Zwerg"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "04-will-nicht-baden",
+        "name": "Leo Lausemaus - 04 - Will nicht baden",
+        "tracks": [
+            "Will nicht baden",
+            "Mag nicht umziehen",
+            "Kann nicht verlieren",
+            "Auf zum Sport"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "05-sein-erster-wackelzahn",
+        "name": "Leo Lausemaus - 05 - Sein erster Wackelzahn",
+        "tracks": [
+            "Sein erster Wackelzahn",
+            "Besucht den Bäckermeister",
+            "Lernt gärtnern",
+            "Will nicht zum Arzt"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "06-will-nicht-teilen",
+        "name": "Leo Lausemaus - 06 - Will nicht teilen",
+        "tracks": [
+            "Will nicht teilen",
+            "Lernt schwimmen",
+            "Mag sich nicht beeilen",
+            "Wünscht sich ein Haustier"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "07-geht-in-den-zirkus",
+        "name": "Leo Lausemaus - 07 - Geht in den Zirkus",
+        "tracks": [
+            "Geht in den Zirkus",
+            "Mag nicht basteln",
+            "Will keinen Babysitter",
+            "Das Kindergartenfest"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "08-will-nicht-im-kindergarten-uebernachten",
+        "name": "Leo Lausemaus - 08 - Will nicht im Kindergarten übernachten",
+        "tracks": [
+            "Will nicht im Kindergarten übernachten",
+            "Mag nicht helfen",
+            "Bekommt einen Schulranzen",
+            "Der erste Schultag"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "09-will-nicht-gross-sein",
+        "name": "Leo Lausemaus - 09 - Will nicht groß sein",
+        "tracks": [
+            "Will nicht groß sein",
+            "Übernachtet bei Didl",
+            "Mag nicht warten",
+            "Bekommt ein Baumhaus"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "10-will-nicht-draussen-spielen",
+        "name": "Leo Lausemaus - 10 - Will nicht draußen spielen",
+        "tracks": [
+            "Will nicht draußen spielen",
+            "Geht auf Schatzsuche",
+            "Mag nicht auf Wiedersehen sagen",
+            "Mamas Geburtstag"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "11-will-alles-alleine-machen",
+        "name": "Leo Lausemaus - 11 - Will alles alleine machen",
+        "tracks": [
+            "Will alles alleine machen",
+            "Passt auf",
+            "Der Tag am Strand",
+            "Der neue Spielplatz"
+        ],
+        "mode": "leo-lausemaus",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "geburtstagsfest",
+        "name": "Lieselotte - Das Geburtstagsfest",
+        "tracks": [
+            "Ein Geburtstagsfest für Lieselotte",
+            "Lieselotte sucht",
+            "Lieselotte ist krank"
+        ],
+        "mode": "lieselotte",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "kinder-bullerbue",
+        "name": "Bullerbü - Wir Kinder aus Bullerbü",
+        "tracks": [
+            "Mein allerschönster Geburtstag",
+            "Mehr von meinem Geburtstag",
+            "Unser letzter Schultag",
+            "Wir verziehen Rüben und bekommen drei junge Katzen",
+            "Die Jungen können kein Geheimnis haben",
+            "Wie Ole seinen Hund bekam",
+            "Wir schlafen auf dem Heuboden",
+            "Ich habe es ja gesagt- Jungen können kein Geheimnis haben!",
+            "Die Schule fängt wieder an",
+            "Der große Schneesturm",
+            "Bald ist Weihnachten"
+        ],
+        "mode": "lindgren",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "lotta-zieht-um",
+        "name": "Lotta zieht um",
+        "tracks": [
+            "Alle sind gemein zu Lotta",
+            "'Lotta du kommst wohl gleich herunter...'",
+            "Lotta zieht aus",
+            "Wohin soll Lotta ziehen",
+            "Lotta mietet einen Wohnung",
+            "Und Tante Berg schleppte ganz brav die Möbel herbei",
+            "Lotta bekommt Besuch",
+            "Bin ich nachts so ganz allein"
+        ],
+        "mode": "lindgren",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "lustig-bullerbue",
+        "name": "Bullerbü - Immer lustig in Bullerbü",
+        "tracks": [
+            "Immer lustig in Bullerbü",
+            "Ich bekomme ein Lamm",
+            "Pontus geht in die Schule",
+            "Ole hat einen losen Zahn",
+            "Der Schrein der Weisen",
+            "Lasse fängt Auerochsen",
+            "Die Kirschen-Verkaufs-Gesellschaft",
+            "Inga und ich wollen Kindermädchen werden - vielleicht"
+        ],
+        "mode": "lindgren",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "mehr-bullerbue",
+        "name": "Bullerbü - Mehr von uns Kindern aus Bullerbü",
+        "tracks": [
+            "Wir Kinder aus Bullerbü",
+            "Wie wir in Bullerbü Weihnachten feiern",
+            "Wir fahren Schlitten",
+            "Wir feiern Silvester",
+            "Festessen bei Tante Jenny",
+            "Lasse fällt in den See",
+            "Wir verulken die Lehrerin",
+            "Ostern in Bullerbü",
+            "Inga und ich gehen einkaufen",
+            "Wir belauschen den Wassergeist",
+            "Ole bekommt eine Schwester",
+            "Inga und ich machen Menschen glücklich"
+        ],
+        "mode": "lindgren",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "immer-dieser-michel",
+        "name": "Michel aus Lönneberga - Immer dieser Michel",
+        "tracks": [
+            "Als Michel auf der Festwiese ein lustiges Leben führte",
+            "Als Michel sich sein eigenes Pferd anschaffte",
+            "Als Michel seinen Vater in der Trissebude einsperrte",
+            "Als Michel eine Heldentat vollbrachte"
+        ],
+        "mode": "lindgren",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "madita",
+        "name": "Madita",
+        "tracks": [],
+        "mode": "lindgren",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "rad",
+        "name": "Mama Muh - Fährt Rad, lernt tauchen & geht angeln",
+        "tracks": [],
+        "mode": "mama-muh",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schlitten",
+        "name": "Mama Muh - Fährt Schlitten, im Dunkeln & Sankta Mucia",
+        "tracks": [],
+        "mode": "mama-muh",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "kletterbaum",
+        "name": "Mama Muh - Der Kletterbaum",
+        "tracks": [],
+        "mode": "mama-muh",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "11-kindergarten",
+        "name": "Max - 11 - Geht in den Kindergarten & Geht zum Kinderarzt",
+        "tracks": [],
+        "mode": "max",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "12-rad",
+        "name": "Max - 12 - Lernt Rad fahren & Kocht Spaghetti",
+        "tracks": [],
+        "mode": "max",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "drachenfest",
+        "name": "Die Olchis - Ein Drachenfest für Feuerstuhl",
+        "tracks": [
+            "Die Olchis aus Schmuddelfing",
+            "Ein Drachenfest für Feuerstuhl",
+            "Olchi-Opas krötigste Abenteuer"
+        ],
+        "mode": "olchis",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "koenig",
+        "name": "Die Olchis - Der faule König",
+        "tracks": [],
+        "mode": "olchis",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schule",
+        "name": "Die Olchis - Fliegen in die Schule",
+        "tracks": [],
+        "mode": "olchis",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "ziehen-um",
+        "name": "Die Olchis - Ziehen um",
+        "tracks": [],
+        "mode": "olchis",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "00-pumuckl-joker",
+        "name": "Pumuckl - 00 - Joker",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "01-spuk-in-der-werkstat",
+        "name": "Pumuckl - 01 - Spuk in der Werkstatt & Das verkaufte Bett",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "02-das-neue-badezimmer",
+        "name": "Pumuckl - 02 - Das neue Badezimmer & Das Schlossgespenst",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "03-die-aberglaeubische-putzfrau",
+        "name": "Pumuckl - 03 - Die abergläubische Putzfrau & In der Schule",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "04-macht-ferien",
+        "name": "Pumuckl - 04 - Macht Ferien & Der Geist des Wasser",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "05-der-pudding",
+        "name": "Pumuckl - 05 - Der Pudding & Der rätselhafte Hund",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "06-wollpullover",
+        "name": "Pumuckl - 06 - Der Wollpullover & Eder bekommt Besuch",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "07-der-grosse-krach",
+        "name": "Pumuckl - 07 - Der große Krach & Der große Krach und seine Folgen",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "08-spanferkelessen",
+        "name": "Pumuckl - 08 - Das Spanferkelessen & Puwackl",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "09-die-angst",
+        "name": "Pumuckl - 09 - Die Angst & Der verhängnisvolle Schlagrahm",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "10-im-zoo",
+        "name": "Pumuckl - 10 - Im Zoo & Die geheimnisvollen Briefe",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "11-segelboot",
+        "name": "Pumuckl - 11 - Das Segelboot & Das Spielzeugauto",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "12-bergtour",
+        "name": "Pumuckl - 12 - Die Bergtour & Die Schatzgräber",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "13-pumuckls-rache",
+        "name": "Pumuckl - 13 - Pumuckls Rache & Die Briefmarken",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "14-goldene-herz",
+        "name": "Pumuckl - 14 - Das goldene Herz & Der Waldspaziergang",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "15-finderlohn",
+        "name": "Pumuckl - 15 - Der Finderlohn & Die Kartenspieler",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "16-mundharmonika",
+        "name": "Pumuckl - 16 - Die Mundharmonika & Jetzt erst recht",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "17-obstbaeume",
+        "name": "Pumuckl - 17 - Die Obstbäume & Passt auf",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "18-kopfwehtabletten",
+        "name": "Pumuckl - 18 - Die Kopfwehtabletten & Der silberne Kegel",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "19-foehniger-tag",
+        "name": "Pumuckl - 19 - Ein föhniger Tag & Die Bank vor der Werkstatt",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "20-knackfroesche",
+        "name": "Pumuckl - 20 - Die Knackfrösche & Wird reich",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "21-gummi-ente",
+        "name": "Pumuckl - 21 - Die Gummi-Ente & Der Blutfleck auf dem Stuhl",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "22-knueller-fuer-die-zeitung",
+        "name": "Pumuckl - 22 - Ein Knüller für die Zeitung & Das eigene Zimmer",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "23-will-eine-uhr-haben",
+        "name": "Pumuckl - 23 - Will eine Uhr haben & Ist an gar nichts schuld",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "24-geburtstag",
+        "name": "Pumuckl - 24 - Der Geburtstag & Die Blechbüchsen",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "25-silberblumen",
+        "name": "Pumuckl - 25 - Die Silberblumen & Das Telefon",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "26-maus",
+        "name": "Pumuckl - 26 - Die Maus & Die Tauben",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "27-schmutz",
+        "name": "Pumuckl - 27 - Der Schmutz & Die Katze",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "28-spielt-mit-dem-feuer",
+        "name": "Pumuckl - 28 - Spielt mit dem Feuer & Das Missverständnis",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "29-geld",
+        "name": "Pumuckl - 29 - Das Geld & Soll Ordnung lernen",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "30-schnupfen",
+        "name": "Pumuckl - 30 - Das grüne Gemälde & Der Schnupfen",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "31-ostereier",
+        "name": "Pumuckl - 31 - Die Ostereier & Der 1. April",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "32-gespenst",
+        "name": "Pumuckl - 32 - Das Gespenst im Gartenhaus & Die abgerissenen Tulpen",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "33-geheimnisvolle-schaukel",
+        "name": "Pumuckl - 33 - Die geheimnisvolle Schaukel & Hütet die Fische",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "34-auf-hexenjagd",
+        "name": "Pumuckl - 34 - Auf Hexenjagd & Hilfe eine Aushilfe",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "35-die-gartenzwerge",
+        "name": "Pumuckl - 35 - Die Gartenzwerge & Will Schreiner werden",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "36-der-verbotene-kirschlikoer",
+        "name": "Pumuckl - 36 - Der verbotene Kirschlikör & Der verdrechte Tag",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "37-der-verstauchte-daumen",
+        "name": "Pumuckl - 37 - Der verstauchte Daumen & Das Parfümfläschchen",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "38-der-blaue-klabauter",
+        "name": "Pumuckl - 38 - Der blaue Klabauter & Der Wellensittich",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "39-alte-liebe",
+        "name": "Pumuckl - 39 - Alte Liebe und Alleskleber & Wartet auf die Bescherung",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "40-sieht-alles",
+        "name": "Pumuckl - 40 - Sieht alles & Setzt sich nicht durch",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "41-der-nikolaus",
+        "name": "Pumuckl - 41 - Der Nikolaus & Auf heißer Spur",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "42-die-weihnachtsgeschenke",
+        "name": "Pumuckl - 42 - Das Weihnachtsgeschenke & Der erste Schnee",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "43-die-christbaumkugeln",
+        "name": "Pumuckl - 43 - Die Christbaumkugeln & Die Schatulle",
+        "tracks": [],
+        "mode": "pumuckl",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "bauernhof",
+        "name": "Wieso Weshalb Warum - Bauernhof",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "baustelle",
+        "name": "Wieso Weshalb Warum - Baustelle",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "am-meer",
+        "name": "Wieso Weshalb Warum - Am Meer",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "laster-bagger-traktoren",
+        "name": "Wieso Weshalb Warum - Laster, Bagger, Traktoren",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "polizei",
+        "name": "Wieso Weshalb Warum - Polizei",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "winter",
+        "name": "Wieso Weshalb Warum - Winter",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "eisenbahn",
+        "name": "Wieso Weshalb Warum - Eisenbahn",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "feuerwehr",
+        "name": "Wieso Weshalb Warum - Feuerwehr",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "pony",
+        "name": "Wieso Weshalb Warum - Pony",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "uhr-und-zeit",
+        "name": "Wieso Weshalb Warum - Uhr und Zeit",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "bei-uns-zu-hause",
+        "name": "Wieso Weshalb Warum - Bei uns zu Hause",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "dinosaurier",
+        "name": "Wieso Weshalb Warum - Dinosaurier",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "krankenhaus",
+        "name": "Wieso Weshalb Warum - Krankenhaus",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schule",
+        "name": "Wieso Weshalb Warum - Schule",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "prinzessin",
+        "name": "Wieso Weshalb Warum - Prinzessin",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "wunder-der-natur",
+        "name": "Wieso Weshalb Warum - Wunder der Natur",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "umweltschutz",
+        "name": "Wieso Weshalb Warum - Umweltschutz",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "unser-baby",
+        "name": "Wieso Weshalb Warum - Unser Baby",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "essen",
+        "name": "Wieso Weshalb Warum - Essen",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "wetter",
+        "name": "Wieso Weshalb Warum - Wetter",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "koerper",
+        "name": "Wieso Weshalb Warum - Körper",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "heute-morgen-jetzt-und-gleich",
+        "name": "Wieso Weshalb Warum - Heute, Morgen jetzt und gleich",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "tierkinder",
+        "name": "Wieso Weshalb Warum - Tierkinder",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "cowboys",
+        "name": "Wieso Weshalb Warum - Cowboys",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "piraten",
+        "name": "Wieso Weshalb Warum - Piraten",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "deutschland",
+        "name": "Wieso Weshalb Warum - Deutschland",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "schiffe",
+        "name": "Wieso Weshalb Warum - Schiffe",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "feste-und-braeuche",
+        "name": "Wieso Weshalb Warum - Feste und Bräuche",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "wale-und-delfine",
+        "name": "Wieso Weshalb Warum - Wale und Delfine",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "nachttiere",
+        "name": "Wieso Weshalb Warum - Nachttiere",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "zaehne-putzen-pipi-machen",
+        "name": "Wieso Weshalb Warum - Zähne putzen, Pipi machen",
+        "tracks": [],
+        "mode": "wieso",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "eisenofen",
+        "name": "Der Eisenofen",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "frieder-wieder-schreit",
+        "name": "Frieder - Wieder schreit der Frieder: Oma!",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "sams-1-woche-voller-samstage-1",
+        "name": "Das Sams - 1 - Eine Woche voller Samstage (1)",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "sams-2-woche-voller-samstage-2",
+        "name": "Das Sams - 1 - Eine Woche voller Samstage (2)",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "sams-3-am-samstag-kam-das-sams-zurueck",
+        "name": "Das Sams - 2 - Am Samstag kam das Sams zurück",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "sams-4-neue-punkte-fuer-das-sams",
+        "name": "Das Sams - 3 - Neue Punkte für das Sams",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "sams-5-ein-sams-fuer-martin-taschenbier-1",
+        "name": "Das Sams - 4 - Ein Sams für Martin Taschenbier (1)",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "sams-6-ein-sams-fuer-martin-taschenbier-2",
+        "name": "Das Sams - 4 - Ein Sams für Martin Taschenbier (2)",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "filly-01-theadas-unglaublicher-flug",
+        "name": "Filly - Theadas unglaublicher Flug (01)",
+        "tracks": [
+            "Theadas unglaublicher Flug",
+            "Thoris magische Hufeisen"
+        ],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "maerchen",
+        "name": "Märchen",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "erzaehl-mir-was",
+        "name": "Erzähl mir was",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "uhubande",
+        "name": "Die Uhubande löst ihren ersten Fall",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "hsp",
+        "allowRandom": false
+    },
+    {
+        "id": "anne-kaffeekanne",
+        "name": "Fredrik Vahle - Anne Kaffeekanne",
+        "tracks": [
+            "Lied vom Wecken",
+            "Vom Laufenlernen",
+            "Das Katzentatzentanzspiel",
+            "Zehn kleine Fledermäuse",
+            "Schlaflied für Anne",
+            "Pinguin-Lied",
+            "Anne Kaffekanne",
+            "Higgelty, Piggelty, Pop und Pu",
+            "Leni Tanzbein",
+            "Wem gibt der Elefant die Hand",
+            "Kawuras - der Krebs",
+            "Lioliola - Lied"
+        ],
+        "mode": "fredrik-vahle",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "hits-fritz",
+        "name": "Fredrik Vahle - Die Hits vom Fritz",
+        "tracks": [
+            "Die Rübe",
+            "Der Cowboy Jim aus Texas",
+            "Der Hase Augustin",
+            "Das Omnibuslied",
+            "Frosch und Maus",
+            "Schweinelied",
+            "Das kleine bunte Trampeltier",
+            "Paule Puhmanns Paddelboot",
+            "Dracula-Rock",
+            "Der Friedensmaler",
+            "Anne Kaffeekanne",
+            "Das Katzentatzentanzspiel",
+            "Von den Bremer Stadtmusikanten",
+            "Lied vom Weihnachtsmann",
+            "Das Eierlied",
+            "Schornsteinfeger ging spazieren"
+        ],
+        "mode": "fredrik-vahle",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "spatz",
+        "name": "Fredrik Vahle - Der Spatz",
+        "tracks": [
+            "Das Würmchen",
+            "Das kleine bunte Trampeltier",
+            "Das schnelle Lied",
+            "Der Hühnerhof",
+            "Der Spatz",
+            "Die Katze Musulunga",
+            "Die Krähe",
+            "Die Tante",
+            "Die Zwerge",
+            "Die zwei Flöhe",
+            "Hau-mich-nicht-Lied",
+            "Kitzelsteinlied ",
+            "Schweinelied"
+        ],
+        "mode": "fredrik-vahle",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "giraffenaffen3",
+        "name": "Giraffenaffen 3",
+        "tracks": [
+            "Giraffenaffenzeit",
+            "Hej, Pippi Langstrumpf",
+            "Unter dem Meer",
+            "Auf der Mauer, auf der Lauer",
+            "Kommt ein Vogel geflogen",
+            "Schlaft alle",
+            "Der Kuckuck und der Esel",
+            "Nessaja",
+            "Jule wäscht sich nie",
+            "Brüderchen, komm tanz mit mir",
+            "An de Eck steiht'n Jung mit'n Tüddelband",
+            "Anne Kaffeekanne",
+            "Vielen Dank für die Blumen",
+            "Wickie",
+            "Trautes Heim",
+            "Froh zu sein Bedarf es wenig",
+            "Schlaf, Kindlein schlaf"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "ministars-92",
+        "name": "Ministars '92",
+        "tracks": [
+            "Ein Lied für dich",
+            "Black And White",
+            "Mein Wlkman",
+            "Wer nie trommelt versäumt ganz schön viel",
+            "In meinem Stofftierzoo",
+            "Kein sieg für Pearly Spencer",
+            "Sing! (den la la la la Song)",
+            "Der Li-La-Launebär",
+            "Wir sind die Champions von morgen",
+            "Das Rendezvous",
+            "Hab' meinen Sittich gern",
+            "Mein Schlauchboot",
+            "Nessie, Nessie",
+            "1000 Worte will ich lernen",
+            "Der Schatz am Ende des Regenbogens",
+            "Mach's gut, bye, bye"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "kinderhitparade",
+        "name": "Kinderhitparade",
+        "tracks": [
+            "Alles Bingo",
+            "Aloha Heja He",
+            "Das Ganze Leben Ist Ein Quiz",
+            "Itsy Bitsy Teeny Weeny Obercooler Supermini",
+            "Kaputgeschmustes Kuscheltier",
+            "Reinhart",
+            "Verdammt Das Gibt's Nicht",
+            "Es Hat Zum Ersten Mal Geschneit",
+            "Mein Herzkuscheltier",
+            "Was Wäre Wenn",
+            "Mach Mich Nicht Fertig, Ne",
+            "Kleine Racker"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "radio-kinderzimmer",
+        "name": "Radio Kinderzimmer - Wer hat die Kokosnuss geklaut",
+        "tracks": [
+            "Willkommen bei Radio Kinderzimmer",
+            "Wer hat die Kokosnuss geklaut",
+            "Roter Teppich für die Tante",
+            "Meine Tante aus Marokko",
+            "Das Liederrätselknackerteam",
+            "Meine Oma fährt im Hühnerstall Motorad",
+            "Ernste Fragen an Doktor Witz",
+            "Old Mac Donald had a farm",
+            "Frau Reiter aus Hoppe",
+            "Ein Pferd das hat 4 Beiner",
+            "Ups! Pups!",
+            "Mamma komm mal runter",
+            "Armer Tausendfüßler",
+            "Meine Biber haben Fieber",
+            "Stau auf der Din A4",
+            "Zehn kleine Gartenzwerge",
+            "Ffffliege",
+            "Das rote Pferd",
+            "Frau Braun aus Grünbach",
+            "Von den blauen Bergen kommen wir",
+            "Rückwerts zu den Rittern",
+            "Die alten Rittersleut",
+            "Am Ende",
+            "Zwei Knaben gingen",
+            "Servus und Ciao!"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "volker-rosin-kinderdisco",
+        "name": "Volker Rosin - Kinderdisco",
+        "tracks": [
+            "Jambo Mambo",
+            "Theo Theo (Veo Veo)",
+            "Party Medley",
+            "Komm lass uns tanzen",
+            "Herzlichen Glückwunsch",
+            "Cinderella Party",
+            "Das Lied über mich",
+            "Der Gorilla mit der Sonnenbrille",
+            "Cowboy Joe",
+            "Hoppelhase Hans",
+            "Der Pirat",
+            "Die Maus auf Weltraumreise",
+            "Das singende Känguru",
+            "Urlaub, endlich Urlaub",
+            "Ich packe meinen Urlaubskoffer",
+            "Oakie Doakie",
+            "Ich hab einen kleinen Papgei",
+            "Flitze Flattermann",
+            "Lass uns Freunde sein",
+            "Zum Tanzen braucht man keine Füße"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "maxim-wartenberg-kuschelbagger",
+        "name": "Maxim Wartenberg - Kuschelbagger",
+        "tracks": [
+            "Kissenschlacht",
+            "Oma und Opa",
+            "Müde gilt nicht",
+            "Kuschelbagger",
+            "Vampire",
+            "Meine Bude",
+            "Regenbogen",
+            "Urlaubszeit",
+            "Musik",
+            "Schutzengel",
+            "Das ist streng verboten",
+            "Zauberer"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "maxim-wartenberg-traeume-monsterchen-und-ich-mittendrin",
+        "name": "Maxim Wartenberg - Träume, Monsterchen und ich mittendrin",
+        "tracks": [
+            "Immer ich",
+            "Der kleine Traum",
+            "Dinosaurier",
+            "Monsterbesuch",
+            "Fusslied",
+            "Schneemann",
+            "Seerauber Jack",
+            "Mein Teddy",
+            "Trommelfloh",
+            "Menschenkinder",
+            "Sommerträume",
+            "Indianerlied"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "wenn-der-elefant-in-die-disco-geht",
+        "name": "Wenn der Elefant in die Disco geht",
+        "tracks": [
+            "Wenn der Elefant in die Disco geht",
+            "Die Geburtstagsparty im Bäckerladen",
+            "Das Lied von der hungrigen Katze",
+            "Der musikalische Wasserhahn",
+            "Der Hase und der Igel",
+            "Der Kranich und die Ente",
+            "Du bist wieder mal der Beste",
+            "Das Märchenschiff",
+            "Die Reise des Kieselsteins"
+        ],
+        "mode": "kinderhits",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1992-jahresuhr",
+        "name": "Rolf Zuckowski - Die Jahresuhr",
+        "tracks": [
+            "Die Jahresuhr",
+            "Es ist nicht leicht, ein Narr zu sein",
+            "Niemand ist ein Niemand",
+            "Immer wieder kommt ein neuer Frühling",
+            "Ich bin sauer",
+            "Meine Heimat ist ein kleiner blauer Stern",
+            "Danke",
+            "Kommt, wir wolln Laterne laufen",
+            "Das Wetter",
+            "Ein Schmetterling im Tannenbaum",
+            "Wieviel Farben hat die Welt"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1986-loch-bauch",
+        "name": "Rolf Zuckowski - Frag mir doch kein Loch in'n Bauch",
+        "tracks": [
+            "Frag' mir doch kein Loch in 'n Bauch",
+            "Im Kindergarten",
+            "Ich bau' mir eine Höhle",
+            "Kinder sind das Größte",
+            "Papa bist du müde",
+            "Ohne Dich",
+            "Du gehörst zu uns",
+            "Ich hab' einen Walkman",
+            "Wenn der Sommer kommt",
+            "Mama ist in Panik",
+            "Ich schaff' das schon",
+            "Drachen im Wind",
+            "Kinder brauchen Träume"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1981-radio-lollipop",
+        "name": "Rolf Zuckowski - Radio Lollipop",
+        "tracks": [
+            "Auf Sendersuche",
+            "Papi, wach auf",
+            "Tweety",
+            "Verkehrsstudio",
+            "Schulbus",
+            "Die Lollipop-Melodie",
+            "Das Brummi-Lied",
+            "Verkehrsstudio",
+            "Uns're Schule hat keine Segel",
+            "Du da im Radio",
+            "Stups, der kleine Osterhase",
+            "Das Mittagskonzert",
+            "Wenn ich krank bin",
+            "Wie schön das Du geboren bist",
+            "Der Morgenmuffel",
+            "Die Lollipop-Melodie",
+            "Es macht Spaß",
+            "Die Büchermaus",
+            "Die Lollipo-Melodie"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1992-schulweghitparade",
+        "name": "Rolf Zuckowski - Rolfs Schulweghitparade",
+        "tracks": [
+            "Mein Weg zur Schule",
+            "Hallo, siehst du mich",
+            "Schulbus",
+            "Alle machen Fehler",
+            "Rot und Grün",
+            "Es ist rot Elfriede",
+            "Was zieh' ich an",
+            "Aus der Traum",
+            "Ich hab' mich verlaufen",
+            "Mein Platz im Auto ist hinten",
+            "Zebrastreifen",
+            "Zwischen den Autos",
+            "An meinem Fahrrad ist alles dran",
+            "Wo kein Gehweg ist",
+            "Heute bleibt das Auto stehn",
+            "Linker Schuh - rechter Schuh",
+            "Deine Welt - meine Welt"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1989-starke-kinder",
+        "name": "Rolf Zuckowski - Starke Kinder",
+        "tracks": [
+            "Starke Kinder",
+            "Kleine Europäer",
+            "So wie Du bist",
+            "Die Monster kommen",
+            "Manchmal wär' ich gerne wieder klein",
+            "Tip Tap",
+            "Riesenglück",
+            "Die Kinder des Rock 'n' Roll",
+            "Ich glaub' ich hab' Dich lieb",
+            "Ryrksnglynks",
+            "Kinder macht Euch startbereit"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1977-vogelhochzeit",
+        "name": "Rolf Zuckowski - Rolfs Vogelhochzeit",
+        "tracks": [
+            "Ein Vogel wollte Hochzeit machen",
+            "Hoch in der Luft",
+            "Guten Tag, guten Tag",
+            "Vöglein, Vöglein, tanz mit mir",
+            "Du und ich",
+            "Immer nur brüten",
+            "Tick, tick, tick",
+            "Hallo Mama, hallo Papa",
+            "Ein Vogelbaby wird niemals satt",
+            "Sieh nur die Sterne",
+            "Immer wenn ein Vogelbaby größer wird",
+            "Ein Vogel wollte Hochzeit machen (2)"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1982-lieder-bruecken",
+        "name": "Rolf Zuckowski - Lieder, die wie Brücken sind",
+        "tracks": [
+            "... und ganz doll mich",
+            "Mein Freund Abdullah",
+            "Lieder, die wie Brücken sind",
+            "Guten Morgen Sally",
+            "Wir sind Kinder...",
+            "Die Lollipop-Melodie IV",
+            "Guten Morgen liebe Sonne",
+            "Das große Lollipop-Quiz",
+            "Grolli, das Schulweg-Monster",
+            "Meine Mami",
+            "Ein Lied für Tweety",
+            "Schneewittchen und die sieben Zwerge"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1983-was-spass-macht",
+        "name": "Rolf Zuckowski - Was Spaß Macht",
+        "tracks": [
+            "Theo (der Bananenbrot-Song)",
+            "Herzlich willkommen",
+            "Nasenküsse",
+            "Es gibt noch echte Kinder",
+            "Großpapa",
+            "Nackidei",
+            "Gemeinsam unterwegs",
+            "Was Spaß macht ...",
+            "Die Traumautomaten",
+            "Zwei Gitarren und ein Mann",
+            "Dein kleines Leben"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "2000-gute-laune-gute-fahrt",
+        "name": "Rolf Zuckowski - Gute Laune, gute Fahrt",
+        "tracks": [
+            "Tage voller Glücksminuten",
+            "Wolkentheater",
+            "Hurra, wir sind im Radio!",
+            "Im Orient",
+            "Wenn die Kleinen etwas anstell'n",
+            "Du kannst nicht singen-",
+            "Fröhlicher August",
+            "Ich will malen",
+            "Sommer - Sonnen - Sehnsucht (Wenn alle Kinder draussen spielen)",
+            "Windmühlentanz",
+            "Sommerzeit - Ferienzeit",
+            "Drachen, lieber Drachen",
+            "Wie gut, daß es die Sonne gibt"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1996-rolfs-liederbuechermaus",
+        "name": "Rolf Zuckowski - Rolfs Liederbüchermaus",
+        "tracks": [
+            "Die Liederbüchermaus",
+            "Froh zu sein bedarf es wenig",
+            "Es geht eine helle Flöte",
+            "Alle wecken Bruder Jakob",
+            "Der Kuckuksreigen",
+            "Drei Chinesen mit dem Kontrabaß",
+            "Alle Vögel sind schon da",
+            "Winde wehn, Schiffe gehn",
+            "Auf der Mauer, auf der Lauer",
+            "Der Mai, der Mai, der lustige Mai",
+            "Fuchs, du hast die Ganz gestohlen",
+            "Alle meine Entchen",
+            "Jetzt fahr`n wir über`n See",
+            "Bunt sind schon die Wälder",
+            "Sonne, Mond und Sterne",
+            "Es tanzt ein Bi-Ba-Butzelmann",
+            "Abendstille überall",
+            "Gute Nacht"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1998-tiere-brauchen-freunde",
+        "name": "Rolf Zuckowski - Tiere brauchen Freunde",
+        "tracks": [
+            "Tiere brauchen Freunde",
+            "Alles voller Leben",
+            "MuschiMinka",
+            "Mary hat ein kleines Lamm",
+            "Ich bin wie ich",
+            "Paff, der Zauberdrachen",
+            "Karl der Käfer",
+            "Das Fischlied",
+            "Flatsch der Frosch",
+            "Lied vom Hund",
+            "Das Traumgespann",
+            "Im Urwald Forschern unbekannt",
+            "Hans mein Igel",
+            "Der dicke Bär will schlafen gehn"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "rz-misc",
+        "name": "Rolf Zuckowski - Verschiedene",
+        "tracks": [
+            "Der Babysitter Boogie",
+            "Der Spielmann",
+            "Elbkinder",
+            "Es geht immer noch ein bischen weiter",
+            "Hallo Welt",
+            "Träume sind wie Zeitmaschinen",
+            "Und ganz doll noch einmal (weitere Strophen)",
+            "Wir hier an der Elbe",
+            "Zum Leben geboren"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1994-du-brauchst-ein-lied",
+        "name": "Rolf Zuckowski - Du brauchst ein Lied",
+        "tracks": [
+            "Du brauchst ein Lied",
+            "Menschenskinder",
+            "Als ich ein Baby war",
+            "Im Osten geht die Sonne auf",
+            "Der Spielmann",
+            "Das Eine-Welt-Lied",
+            "Oma liebt Opapa",
+            "Aber alles auf Video",
+            "Glücksminuten",
+            "Ganz normale Leute",
+            "Mami, jetzt trimm` ich dich fit",
+            "Jane und John",
+            "Wenn dieses Lied ein Oldie ist",
+            "Deutschland, deine Kinder"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "1995-freunde-wie-wir",
+        "name": "Rolf Zuckowski - Freunde wie wir",
+        "tracks": [
+            "Hut ab",
+            "Wir könnten Freunde sein",
+            "Alle wissen alles - keiner weiß Bescheid",
+            "Alte Schule, altes Haus",
+            "Fliegenglück",
+            "Kleiner Cowboy",
+            "Chocolococo",
+            "Der Zahnlückenblues",
+            "Lieder die wie Brücken sind (new mix)",
+            "Der Bär",
+            "Wer macht den so was",
+            "Dann traut euch",
+            "Die perfekte Familie",
+            "Ich wollte ein Lied schreiben"
+        ],
+        "mode": "rz",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "janetzko-der-fruehling-ist-da",
+        "name": "Stephen Janetzko - Der Frühling ist da",
+        "tracks": [
+            "Der Frühling ist da",
+            "Das Lied von der Raupe Nimmersatt",
+            "All die kleinen Häschen (Der Hasetanz)",
+            "Bauer Hans",
+            "Der Oster-Rock 'n' Roll",
+            "Im Frühling",
+            "Heut gehn wir raus (Becherlupen-Lied)",
+            "Die Weidenkätzchen",
+            "Wir freu'n uns schon auf Ostern",
+            "Hopplahopp, der Osterhase",
+            "Hier ein Ei und dort ein Ei (Die Ostereier-Suche) ",
+            "Was zu Ostern geschah",
+            "Stark wie ein Baum",
+            "Der Frühling kommt (1-2-3)",
+            "Has, Has, erzähl mir was!",
+            "Löwenzahn (Toll Toll Toll)",
+            "Meine Mama ist die Beste (Muttertagslied)",
+            "Mama, ach ich hab dich lieb (Mama-Lied)",
+            "Ich breite meine Flügel aus (Schmetterlingstanz)",
+            "Erst kommt der Sonnenkäferpapa"
+        ],
+        "mode": "spring",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "rolfs-hasengeschichte",
+        "name": "Rolf Zuckowski - Rolfs Hasengeschichte",
+        "tracks": [
+            "Häschen in der Grube (1)",
+            "Das Lied vom Hasendocktor",
+            "Du musst essen, Häschen",
+            "Jetzt kommt die Osterzeit",
+            "Im großen Osterhasenbuch",
+            "In der Osterhasenmalerwekstatt",
+            "Vom Tauchen und Tunken",
+            "Wer guckt da über meine Schulter",
+            "Wenn es Frühling wird im Hasenland",
+            "So malen wir Hasen",
+            "Ich bin stark",
+            "Aufbruch",
+            "Häschen in der Grube (2)",
+            "Frohe Ostern"
+        ],
+        "mode": "spring",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "nola-note-weltreise-1",
+        "name": "Nola Note - Auf musikalischer Weltreise",
+        "tracks": [
+            "Die Reise beginnt... auf nach Mexiko",
+            "Trompeten von Mexiko",
+            "Nola Note in Argentinien",
+            "Argentinischer Tango mit Bandoneon",
+            "Nola Note in Nordamerika",
+            "Die Indianerflöte",
+            "Nola Note in Irland",
+            "Wenn die Geige Fiddle heißt",
+            "Nola Note in Schottland",
+            "Der gute alte Dudelsack",
+            "Nola Note in Spanien",
+            "Die Gitarre spielt Flamenco",
+            "Nola Note in Afrika",
+            "Die Sprache der Musik - Trommeln in Afrika",
+            "Nola Note in Australien",
+            "Diggeridoo",
+            "Nola Note in Asien",
+            "Fremder Klang - Yin Yan",
+            "Nola Note in Russland",
+            "Balalaika - Russische Seele",
+            "Noch mal von vorne"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "loewe-frisoer",
+        "name": "Der Löwe beim Frisör",
+        "tracks": [
+            "Der Tausendfüßler",
+            "Die Tiere beim Frisör",
+            "Mein kleines braunes Pony",
+            "Die Muschel",
+            "Das Skelett",
+            "Wir sind Piraten",
+            "Kleine Männchen aus dem All",
+            "Jawoll, ja, das ist wahr",
+            "Kleiner Käfer",
+            "Hochzeit im Ozean",
+            "Der Mann im Mond",
+            "Kängurus",
+            "Mein bester Freund",
+            "Der Wackelzahn",
+            "In Aland lebt der Kakada",
+            "Fuchs und Maus und Elefant",
+            "Der Hoppelhase",
+            "Hallo, hallo, Dinosaurier",
+            "Froschkönigs Reich",
+            "Der Luftballon",
+            "Schlafe, leg dich zur Ruh"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "eule-europa",
+        "name": "Eule findet den Beat auf Europatour",
+        "tracks": [
+            "Eule findet den Beat auf Europatour.mp3",
+            "Im Schlagerhimmel.mp3",
+            "C'est la vie.mp3",
+            "Olé Olé.mp3",
+            "Am Ende des Regenbogens.mp3",
+            "Wo wir tanzen und singen.mp3",
+            "Kalimera.mp3",
+            "Yalla.mp3",
+            "Hej Midsommar.mp3",
+            "Finde deinen Beat.mp3"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "babylove-kinderlieder",
+        "name": "DM Babylove Kinderlieder",
+        "tracks": [
+            "Es tanzt der Bi-Ba-Butzemann",
+            "Kuckuck, Kuckuck, ruft's aus dem Wald",
+            "Es regnet",
+            "Schlaf, Kindchen, schlaf!",
+            "Zeigt her eure Füße",
+            " Männlein steht im Walde",
+            "Fuchs, Du hast die Gans gestohlen",
+            "Der Kuckuck und der Esel",
+            "Es klappert die Mühle",
+            "Auf der Mauer auf der Lauer"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "mitmachlieder",
+        "name": "22 Mitmachlieder",
+        "tracks": [
+            "Hallo, Hallo, schön dass Du da bist",
+            "Meine Hände sind verschwunden",
+            "Aramsamsam",
+            "Erst kommt der Sonnenkäferpapa",
+            "Backe,backe Kuchen",
+            "In meinem kleinen Apfel",
+            "Summ, summ,summ Bienchensumm herum",
+            "Zeigt her eure Füße",
+            "Das Krokodil vom Nil",
+            "Die Räder vom Bus",
+            "Ich flieg in meinem Flugzeug",
+            "Was müssen das für Bäume sein",
+            "Ich bin der kleine Hampelmann",
+            "Hände waschen",
+            "Zehn kleine Zappelmänner",
+            "Hoppe hoppe Reiter",
+            "Zwei lange Schlangen",
+            "Drei Chines mit dem Kontrabass",
+            "Häschen in der Grube",
+            "Rommel Bommel",
+            "Hoch am Himmel",
+            "Alle Leut"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "sauseschritt",
+        "name": "1, 2, 3 im Sauseschritt",
+        "tracks": [
+            "Jetzt geht es los",
+            "1, 2, 3 im Sauseschritt",
+            "Wie wollen eine Reise machen",
+            "Wir gehen im Kreise",
+            "Ich möchte´ so gerne springen",
+            "Das Wachmacherlied",
+            "Wisst ihr, was die Bienen träumen",
+            "Ich male heute einen Baum",
+            "Heute muss ich Häuser bauen",
+            "Zauberer Schrappelschrut",
+            "Verkleidungs-ABC",
+            "Ich schaukel auf dem Wasser",
+            "Klikker klakker klix",
+            "Kleine braune Biene",
+            "Hoppelhase, sitz ganz still",
+            "Ich hab Pause"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "kalle-klang",
+        "name": "Kalle Klang & die Flohtöne",
+        "tracks": [
+            "Alle Vögel sind schon da",
+            "Bruder Jakob",
+            "Backe, backe Kuchen",
+            "Im Märzen der Bauer",
+            "Alle meine Entchen",
+            "Grün, grün, grün sind alle meine Kleider",
+            "Häschen in der Grube",
+            "Es tanzt ein Bi-Ba-Butzemann",
+            "Ein Mann, der sich Kolumbus nannt'",
+            "Kommt ein Vogel geflogen",
+            "Drei Chinesen mit dem Kontrabass",
+            "Brüderchen, komm tanz' mit mir",
+            "Es war eine Mutter",
+            "Summ, summ, summ",
+            "Hoppe, hoppe Reiter",
+            "Es klappert die Mühle am rauschenden Bach",
+            "Hänschen klein",
+            "Die Vogelhochzeit",
+            "Hänsel und Gretel",
+            "Dornröschen war ein schönes Kind",
+            "Auf der Mauer auf der Lauer",
+            "Der Kuckuck und der Esel",
+            "Ein Männlein steht im Walde",
+            "Laurentia, liebe Laurentia mein",
+            "Laterne, Laterne",
+            "Wer will fleissige Handwerker sehen",
+            "Auf einem Baum ein Kuckuck",
+            "Hejo, spann den Wagen an!",
+            "Mein Hut, der hat drei Ecken",
+            "ABC, die Katze lief im Schnee",
+            "Weisst Du wieviel Sternlein stehen",
+            "Schlaf, Kindlein, schlaf!",
+            "Guten Abend, gute Nacht"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "turn-tier-lieder",
+        "name": "Turn-Tier-Lieder im Zoo",
+        "tracks": [
+            "Die Spatz-Idee",
+            "Flamingo-Turnen",
+            "Ein Flamingo names Ingo",
+            "Elefanten-Turnen",
+            "Der Elefant",
+            "Kakadu-Turnen",
+            "Ka-ka-du",
+            "Schlangen-Turnen",
+            "Eine Kringel-Schlingel-Schlange",
+            "Panther-Turnen",
+            "Panther und Leopard",
+            "Bären-Turnen",
+            "Der braune und der weiße Bär",
+            "Känguru-Turnen",
+            "Hüpf-hüpf Känguruh",
+            "Pinguin-Turnen",
+            "Frau Pinguin",
+            "Nilpferd-Turnen",
+            "Nilpferd sein",
+            "Affen-Turnen",
+            "Affen",
+            "Dann feiern wir im Zoo (instr.)"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "bauernhof-olympiade",
+        "name": "Bauernhof Olympiade",
+        "tracks": [
+            "Die Idee",
+            "Da lachen ja die Hühner",
+            "Lotte die Kuh",
+            "Der Wert vom Pferd",
+            "Katzenjammer",
+            "Gestatten - der Floh",
+            "Wenn Fliegen fliegen",
+            "Der Hahn",
+            "Wackel-Watschel-Ente",
+            "Hundeleben",
+            "Der Hase und die Ziege",
+            "Die noch viel bessere Idee"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "carus-kinderlieder",
+        "name": "Carus - Kinderlieder",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "carus-wiegenlieder",
+        "name": "Carus - Wiegenlieder",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "weisst-du-wie-viel-sternlein-stehen",
+        "name": "Weißt du wie viel Sternlein stehen",
+        "tracks": [
+            "Weißt du, wie viel Sternlein stehen",
+            "Brüderlein, komm, tanz mit mir",
+            "Alles jubelt, alles singt",
+            "Alle gute Gabe",
+            "Lauf mein Pferdchen hopp. hopp, hopp",
+            "Die Schnecke hat ihr Haus",
+            "Summ, summ, summ",
+            "Wenn sich die Igel küssen",
+            "Wer bringt den Fischen das Schwimmen bei",
+            "Schlaf, Kindlein, schlaf",
+            "Gott sagt uns immer wieder",
+            "Der Mond ist aufgegangen",
+            "Weißt du, wie viel Sternlein stehen (instrumental)"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "kinderlieder",
+        "name": "Kinderlieder",
+        "tracks": [
+            "ABC die Katze lief im Schnee",
+            "Alle Vögel sind schon da",
+            "Auf der Mauer auf der Lauer",
+            "Auf unserer Wiese gehet was",
+            "Backe backe Kuchen",
+            "Die Gedanken sind frei",
+            "Drei Chinesen mit dem Kontrabass",
+            "Ein Männlein steht im Walde",
+            "Ein Vogel wollte Hochzeit machen",
+            "Eine kleine Geige möchte ich haben",
+            "Eins, zwei, drei im Sauseschritt",
+            "Es klappert die Mühle am rauschenden Bach",
+            "Es tanzt ein Bibabutzemann",
+            "Fuchs du hast die Gans gestohlen",
+            "Grün grün grün",
+            "Hänschen llein",
+            "Hänsel und Gretel",
+            "Häslein in der Grube",
+            "Ich fahre mit der Post",
+            "Kuckuck",
+            "Schlaf Kindchen schlaf",
+            "Summ summ summ",
+            "Weißt du wieviel Sternlein stehen",
+            "Wer will fleißige Handwerker sehn"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "oetinger-schlaflieder",
+        "name": "Oetinger - Die schönsten Schlaflieder",
+        "tracks": [
+            "Wer hat die schönsten Schäfchen",
+            "Der Mond ist aufgegangen",
+            "Schlaf, mein kleines Mäuschen",
+            "Kindlein mein, schlaf nun ein",
+            "Die Blümelein, sie schlafen",
+            "Leise, Peterle, leise",
+            "Kommt gezogen, kleine Vögel",
+            "Das Sandmann ist da!",
+            "Müde bin ich, geh zur ruh",
+            "Eia popeia",
+            "Schlaf, Kindlein, schlaf!",
+            "So schlaf in Ruh",
+            "Ade zur guten Nacht",
+            "Aber heidschi bumbeidschi",
+            "Weißt du, wie viel Sternlein stehen"
+        ],
+        "mode": "misc",
+        "topMode": "kindermusik",
+        "allowRandom": true
+    },
+    {
+        "id": "please-please-me-mono",
+        "name": "The Beatles - Please Please Me (Mono)",
+        "tracks": [
+            "I Saw Her Standing There",
+            "Misery",
+            "Anna",
+            "Chains",
+            "Boys",
+            "Ask Me Why",
+            "Please Please Me",
+            "Love Me Do",
+            "P.S  I Love You",
+            "Baby It's You",
+            "Do You Want To Know A Secret",
+            "A Taste Of Honey",
+            "Threre's A Place",
+            "Twist And Shout"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "with-the-beatles-mono",
+        "name": "The Beatles - With The Beatles (Mono)",
+        "tracks": [
+            "It Won't Be Long",
+            "All I've Got To Do",
+            "All My Loving",
+            "Don't Bother Me",
+            "Little Child",
+            "Till There Was You",
+            "Please Mister Postman",
+            "Roll Over Beethoven",
+            "Hold Me Tight",
+            "You Really Got A Hold On Me",
+            "I Wanna Be Your Man",
+            "Devil in Her Heart",
+            "Not A Second Time",
+            "Money"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "a-hard-days-night-mono",
+        "name": "The Beatles - A Hard Day's Night (Mono)",
+        "tracks": [
+            "A Hard Day's Night",
+            "I Should Have Known Better",
+            "If I Fell",
+            "I'm Happy Just To Dance With You",
+            "And I Love Her",
+            "Tell Me Why",
+            "Can't Buy Me Love",
+            "Any Time At All",
+            "I'll Cry Instead",
+            "Things We Said Today",
+            "When I Get Home",
+            "You Can't Do That",
+            "I'll Be Back"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "beatles-for-sale-mono",
+        "name": "The Beatles - Beatles For Sale (Mono)",
+        "tracks": [
+            "No Reply",
+            "I'm A Loser",
+            "Baby's In Black",
+            "Rock And Roll Music",
+            "I'll Follow The Sun",
+            "Mr. Moonlight",
+            "Kansas City Hey-Hey-Hey-Hey!",
+            "Eight Days A Week",
+            "Words Of Love",
+            "Honey Don't",
+            "Every Little Thing",
+            "I Don't Want To Spoil The Party",
+            "What You're Doing",
+            "Everybody's Trying To Be My Baby"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "help",
+        "name": "The Beatles - Help",
+        "tracks": [
+            "Help!",
+            "The Night Before",
+            "You've Got To Hide Your Love Away",
+            "I Need You",
+            "Another Girl",
+            "You're Going To Lose That Girl",
+            "Ticket To Ride",
+            "Act Naturally",
+            "It's Only Love",
+            "You Like Me Too Much",
+            "Tell Me What You See",
+            "I've Just Seen A Face",
+            "Yesterday",
+            "Dizzy Miss Lizzy"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "rubber-soul",
+        "name": "Rubber Soul",
+        "tracks": [
+            "Drive My Car",
+            "Norwegian Wood (This Bird Has Flown)",
+            "You Won't See Me",
+            "Nowhere Man",
+            "Think For Yourself",
+            "The Word",
+            "Michelle",
+            "What Goes On",
+            "Girl",
+            "I'm Looking Through You",
+            "In My Life",
+            "Wait",
+            "If I Needed Someone",
+            "Run For Your Life"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "revolver",
+        "name": "The Beatles - Revolver",
+        "tracks": [
+            "Taxman",
+            "Eleanor Rigby",
+            "I'm Only Sleeping",
+            "Love You To",
+            "Here, There And Everywhere",
+            "Yellow Submarine",
+            "She Said She Said",
+            "Good Day Sunshine",
+            "And Your Bird Can Sing",
+            "For No One",
+            "Doctor Robert",
+            "I Want To Tell You",
+            "Got To Get You Into My Life",
+            "Tomorrow Never Knows"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "sgt-peppers-lonely-hearts-club-band-2017",
+        "name": "The Beatles - Sgt. Peppers Lonely Hearts Club Band (2017)",
+        "tracks": [
+            "Sgt. Pepper's Lonely Hearts Club Band",
+            "With A Little Help From My Friends",
+            "Lucy In The Sky With Diamonds",
+            "Getting Better",
+            "Fixing A Hole",
+            "She's Leaving Home",
+            "Being For The Benefit Of Mr. Kite!",
+            "Within You Without You",
+            "When I'm Sixty-Four",
+            "Lovely Rita",
+            "Good Morning Good Morning",
+            "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+            "A Day In The Life"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "magical-mystery-tour",
+        "name": "The Beatles - Magical Mystery Tour",
+        "tracks": [
+            "Magical Mystery Tour",
+            "The Fool On The Hill",
+            "Flying",
+            "Blue Jay Way",
+            "Your Mother Should Know",
+            "I Am The Walrus",
+            "Hello Goodbye",
+            "Strawberry Fields Forever",
+            "Penny Lane",
+            "Baby You're A Rich Man",
+            "All You Need Is Love"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "the-white-album-1-2018",
+        "name": "The Beatles - The White Album CD 1 (2018)",
+        "tracks": [
+            "Back In The U.S.S.R.",
+            "Dear Prudence",
+            "Glass Onion",
+            "Ob-La-Di, Ob-La-Da",
+            "Wild Honey Pie",
+            "The Continuing Story Of Bungalow Bill",
+            "While My Guitar Gently Weeps",
+            "Happiness Is A Warm Gun",
+            "Martha My Dear",
+            "I'm So Tired",
+            "Blackbird",
+            "Piggies",
+            "Rocky Raccoon",
+            "Don't Pass Me By",
+            "Why Don't We Do It In The Road_",
+            "I Will",
+            "Julia"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "the-white-album-2-2018",
+        "name": "The Beatles - The White Album CD 2 (2018)",
+        "tracks": [
+            "Birthday",
+            "Yer Blues",
+            "Mother Nature's Son",
+            "Everybody's Got Something To Hide Except Me And My Monkey",
+            "Sexy Sadie",
+            "Helter Skelter",
+            "Long, Long, Long",
+            "Revolution 1",
+            "Honey Pie",
+            "Savoy Truffle",
+            "Cry Baby Cry",
+            "Revolution 9",
+            "Good Night"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "abbey-road-2019",
+        "name": "The Beatles - Abbey Road (2019)",
+        "tracks": [
+            "Come Together",
+            "Something",
+            "Maxwell's Silver Hammer",
+            "Oh! Darling",
+            "Octopus's Garden",
+            "I Want You (She's So Heavy)",
+            "Here Comes The Sun",
+            "Because",
+            "You Never Give Me Your Money",
+            "Sun King",
+            "Mean Mr. Mustard",
+            "Polythene Pam",
+            "She Came In Through The Bathroom Window",
+            "Golden Slumbers",
+            "Carry That Weight",
+            "The End",
+            "Her Majesty"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "let-it-be",
+        "name": "The Beatles - Let It Be",
+        "tracks": [
+            "Two Of Us",
+            "Dig A Pony",
+            "Across The Universe",
+            "I Me Mine",
+            "Dig It",
+            "Let It Be",
+            "Maggie Mae",
+            "I've Got A Feeling",
+            "One After 909",
+            "The Long And Winding Road",
+            "For You Blue",
+            "Get Back"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "yellow-submarine-songtrack-1999",
+        "name": "The Beatles - Yellow Submarine Songtrack (1999)",
+        "tracks": [
+            "Yellow Submarine",
+            "Hey Bulldog",
+            "Eleanor Rigby",
+            "Love You To",
+            "All Together Now",
+            "Lucy In The Sky With Diamonds",
+            "Think For Yourself",
+            "Sgt Pepper's Lonely Hearts Club Band",
+            "With A Little Help From My Friends",
+            "Baby You're A Rich Man",
+            "Only A Northern Song",
+            "All You Need Is Love",
+            "When I'm Sixty Four",
+            "Nowhere Man",
+            "It's All Too Much"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "past-masters",
+        "name": "The Beatles - Past Masters",
+        "tracks": [
+            "Love Me Do (Original Single Version)",
+            "From Me To You",
+            "Thank You Girl",
+            "She Loves You",
+            "I'll Get You",
+            "I Want To Hold Your Hand",
+            "This Boy",
+            "Komm, Gib Mir Deine Hand",
+            "Sie Liebt Dich",
+            "Long Tall Sally",
+            "I Call Your Name",
+            "Slow Down",
+            "Matchbox",
+            "I Feel Fine",
+            "She's A Woman",
+            "Bad Boy",
+            "Yes It Is",
+            "I'm Down",
+            "Day Tripper",
+            "We Can Work It Out",
+            "Paperback Writer",
+            "Rain",
+            "Lady Madonna",
+            "The Inner Light",
+            "Hey Jude",
+            "Revolution",
+            "Get Back",
+            "Don't Let Me Down",
+            "The Ballad Of John And Yoko",
+            "Old Brown Shoe",
+            "Across The Universe",
+            "Let It Be",
+            "You Know My Name (Look Up The Number)"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "1-remastered",
+        "name": "The Beatles - 1+ (2015)",
+        "tracks": [
+            "Love Me Do (mono)",
+            "From Me To You (mono)",
+            "She Loves You (mono)",
+            "I Want To Hold Your Hand",
+            "Can't Buy Me Love",
+            "A Hard Day's Night",
+            "I Feel Fine",
+            "Eight Days A Week",
+            "Ticket To Ride",
+            "Help!",
+            "Yesterday",
+            "Day Tripper",
+            "We Can Work It Out",
+            "Paperback Writer",
+            "Yellow Submarine",
+            "Eleanor Rigby",
+            "Penny Lane",
+            "All You Need Is Love",
+            "Hello, Goodbye",
+            "Lady Madonna",
+            "Hey Jude",
+            "Get Back",
+            "The Ballad Of John And Yoko",
+            "Something",
+            "Come Together",
+            "Let It Be",
+            "The Long And Winding Road"
+        ],
+        "mode": "beatles",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "tim-bendzko-am-seidenen-faden",
+        "name": "Tim Bendzko - Am seidenen Faden",
+        "tracks": [
+            "Ich steh nicht mehr still",
+            "Am seidenen Faden",
+            "Ohne zurück zu sehen",
+            "Auch wenn es gelogen ist",
+            "Vergessen ist so leicht",
+            "Die Geier kreisen schon",
+            "Durch die Nacht",
+            "Es geht wieder vorbei",
+            "Nur einen Herzschlag",
+            "Ich will zu Dir",
+            "Programmiert",
+            "Leicht sein",
+            "Wo sollen wir nur hin",
+            "Alles was du wissen musst"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-fantastischen-vier-4-99",
+        "name": "Die Fantastischen Vier - 4.99",
+        "tracks": [
+            "MfG",
+            "Hammer",
+            "Die Stadt die es nicht gibt",
+            "Michi Beck In Hell",
+            "Le Smou",
+            "Buenos Dias Messias"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-fantastischen-vier-lauschgift",
+        "name": "Die Fantastischen Vier - Lauschgift",
+        "tracks": [
+            "Populär",
+            "Sie ist weg",
+            "Was geht",
+            "Die Geschichte des O",
+            "Ich bin",
+            "Michi Gegen die Gesellschaft",
+            "Locker bleiben",
+            "Love Sucks",
+            "Wie die Anderen"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-fantastischen-vier-4-gewinnt",
+        "name": "Die Fantastischen Vier - 4 gewinnt",
+        "tracks": [
+            "Vier gewinnt",
+            "Die da",
+            "Saft",
+            "Dicker Pulli",
+            "Na gut",
+            "Es wird Regen geben",
+            "Thomas und die Frauen",
+            "Hausmeister Thomas D",
+            "Jetzt geht's ab"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "silbermond-himmel-auf",
+        "name": "Silbermond - Himmel auf",
+        "tracks": [
+            "Unter der Oberfläche",
+            "Gegen",
+            "Himmel auf",
+            "Wofür",
+            "Ja",
+            "Teil von mir",
+            "Irgendwo in der Mitte",
+            "Für dich schlägt mein Herz",
+            "Weiße Fahnen",
+            "Ans Meer",
+            "Es geht weiter",
+            "Waffen",
+            "Du fehlst hier",
+            "Das Gute gewinnt"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-prinzen-alles-mitm-mund",
+        "name": "Die Prinzen - Alles mit'm Mund",
+        "tracks": [
+            "Hose runter",
+            "Mädchen",
+            "Keine Tränen mehr",
+            "Audi Victoria",
+            "Es geht immer weiter",
+            "Besoffen vor Glück",
+            "Alles mit'm Mund",
+            "Wo bist du",
+            "Heute ha-ha-habe ich Geburtstag",
+            "Deine Augen",
+            "Politiker",
+            "Schleimbeutel",
+            "Uns sind die Sterne egal"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-prinzen-alles-nur-geklaut",
+        "name": "Die Prinzen - Alles nur geklaut",
+        "tracks": [
+            "Liebe im Fahrstuhl",
+            "Alles nur geklaut",
+            "Ueberall",
+            "Du spinnst doch",
+            "Kein Liebeslied",
+            "Sicherheitsmann",
+            "Aua",
+            "Mein Portemonnaie",
+            "Was soll ich Ihr schenken",
+            "Blaue Augen",
+            "Ich kann nicht rappen",
+            "Schlaflied"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-prinzen-das-leben-ist-grausam",
+        "name": "Die Prinzen - Das Leben ist grausam",
+        "tracks": [
+            "Millionär",
+            "Mann im Mond",
+            "Gabi und Klaus",
+            "Wer ist der Typ",
+            "Betriebsdirektor",
+            "Ich will dich haben",
+            "Blaues Blut",
+            "Mein Fahrrad",
+            "Die Vögel",
+            "Vierzig Jahre",
+            "Mein bester Freund",
+            "Tschüssi...macht's gut"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-prinzen-live-akustisch",
+        "name": "Die Prinzen - Live akustisch",
+        "tracks": [
+            "Gabi und Klaus",
+            "Alles mit'm Mund",
+            "Alles nur geklaut",
+            "Wenn du weinst",
+            "Abgehaun",
+            "Küssen verboten",
+            "Bombe",
+            "Du must ein Schwein sein",
+            "Millionär",
+            "Deutschland",
+            "Mann im Mond",
+            "Ich schenk dir die Welt"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "eav-geld-oder-leben",
+        "name": "EAV - Geld oder Leben",
+        "tracks": [
+            "Geld oder Leben",
+            "Johnny 1 - Fahrscheine",
+            "Ba-Ba-Banküberfall",
+            "Johnny 2 - Zuckerwatte",
+            "Heisse Nächte",
+            "Einsamkeit",
+            "Fata Morgana",
+            "Märchenprinz",
+            "Johnny 3 - Bullen",
+            "Helden",
+            "Johnny 4 - Feuer",
+            "Küss die Hand Herr K.",
+            "Johnny 5 - WC",
+            "Es g'winnt a jeder",
+            "Morgen..."
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "eav-graetest-hitz",
+        "name": "EAV - Grätest Hitz",
+        "tracks": [
+            "Küss die Hand, schöne Frau",
+            "Ba- Ba Banküberfall",
+            "Samurai",
+            "An der Copacabana",
+            "Märchenprinz",
+            "Afrika",
+            "Fata Morgana",
+            "Ding - Dong",
+            "Heisse Nächte",
+            "Burli",
+            "Flugzeug",
+            "Einmal möchte ich ein Böser sein",
+            "Morgen...."
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "eav-kunst-tour-95",
+        "name": "EAV - Kunst Tour '95",
+        "tracks": [
+            "HipHopMedley",
+            "Neandertal",
+            "300 PS",
+            "Cinderella",
+            "Die Zeit",
+            "'s Muaterl",
+            "Flugzeug",
+            "Einmal möchte ich ein Böser sein",
+            "Eierkopf Rudi",
+            "Hitmedley",
+            "Morgen"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "eav-sonstige",
+        "name": "EAV - Sonstige",
+        "tracks": [
+            "100 Jahre EAV (Marcel R-R)",
+            "Ba Ba Ballamann",
+            "Ba Ba Bankrobbery",
+            "Bimsemann und Roggenkeil",
+            "Blöd",
+            "Cinderella",
+            "Der Wein von Mykonos",
+            "Die Pille für den Mann",
+            "Ding Dong (Intro)",
+            "Drei verliebte Pinguine (1)",
+            "Drei verliebte Pinguine (2)",
+            "Drei weiße Tauben (Ref-Mix)",
+            "Drei weiße Tauben",
+            "Es steht ein Haus in Ostberlin",
+            "Frauenluder",
+            "Heimatlied (live)",
+            "Heimatlied",
+            "Helden (studio)",
+            "Himbeerland",
+            "Im Himmel ist die Hölle los",
+            "Let's Hop To The Pop Medley",
+            "Liebe Tod Teufel",
+            "Liebe, Tod und Teufel (live VHS)",
+            "Mein Gott Intro (Taliban)",
+            "Mein Gott",
+            "Morgen (live VHS)",
+            "Neandertal",
+            "Nie wieder Kunst",
+            "Only Du (live)",
+            "S' Muaterl",
+            "Schnelles Geld",
+            "Schweinefunk (live)",
+            "Wo ist der Kaiser"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "rhythms-del-mundo-cubano-aleman",
+        "name": "Rhythms del Mundo - Cubano Aleman",
+        "tracks": [
+            "Vom selben Stern",
+            "36 Grad",
+            "Wo willst du hin",
+            "Klar",
+            "El Ultimo Mojito",
+            "Ich bin ich",
+            "Dieses Leben",
+            "Luna Loca",
+            "Tag am Meer",
+            "Symphonie",
+            "Casa Verde",
+            "Hamma"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "pur-live",
+        "name": "Pur - Live",
+        "tracks": [
+            "Hab' mich wieder mal an Dir betrunken",
+            "Brüder (Stell Dir vor)",
+            "Bis der Wind sich dreht",
+            "Drachen sollen fliegen",
+            "Ohne Dich",
+            "Wenn sie diesen Tango hört",
+            "Freunde",
+            "Prinzessin",
+            "D-Mark",
+            "Lied für all die Vergessenen",
+            "Funkelperlenaugen",
+            "Lena",
+            "Fallen"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "muenchener-freiheit-best-of",
+        "name": "Münchener Freiheit - Best of",
+        "tracks": [
+            "Bis wir uns wiedersehen",
+            "Diana",
+            "Herz aus Glas",
+            "Lass mich nie mehr los",
+            "Mondlicht",
+            "Oh, Baby",
+            "Ohne Dich",
+            "Schenk mir eine Nacht",
+            "So heiß",
+            "So lang man Träume noch leben kann",
+            "Verlieben, Verlieren",
+            "Zwei wie du und ich"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "die-prinzen-orchestral",
+        "name": "Die Prinzen - Orchestral",
+        "tracks": [
+            "Ouvertüre (orchestral)",
+            "Du musst ein Schwein sein (orchestral)",
+            "Ich will dich haben (orchestral)",
+            "Wenn du weinst (orchestral)",
+            "Abgehau'n (orchestral)",
+            "Millionär (orchestral)",
+            "Blaue Augen (orchestral)",
+            "Bombe (orchestral)",
+            "Alles nur geklaut (orchestral)",
+            "Deutschland (orchestral)",
+            "Ganz oben (orchestral)",
+            "Ich schenk dir die Welt (orchestral)",
+            "Ich schenk dir die Welt (instrumental, orchestral)"
+        ],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "claudia-jung",
+        "name": "Claudia Jung - Stumme Signale",
+        "tracks": [],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "helene-fischer",
+        "name": "Helene Fischer - Die Sonne kann warten",
+        "tracks": [],
+        "mode": "german",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "katie-melua-ketevan",
+        "name": "Katie Melua - Ketevan",
+        "tracks": [
+            "Never Felt Less Like Dancing",
+            "Sailing Ships from Heaven",
+            "Love Is a Silent Thief",
+            "Shiver and Shake",
+            "The Love I'm Frightened Of",
+            "Where Does the Ocean Go_",
+            "Idiot School",
+            "Mad, Mad Men",
+            "Chase Me",
+            "I Never Fall",
+            "I Will Be There"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "autogenes-training",
+        "name": "Autogenes Training",
+        "tracks": [
+            "Grundübung zum Stressabbau",
+            "Die Konzentration steigern",
+            "Das Selbstvertrauen stärken",
+            "Besser einschlafen"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "entspannung-fuer-kinder",
+        "name": "Entspannung für Kinder",
+        "tracks": [
+            "Der Baum im Wind, der Hund, die Katze und der Löwe",
+            "Lauschen",
+            "Die Zitrone",
+            "Der Fels am Meer",
+            "Dein Herz",
+            "Die Sonne",
+            "Meeresrauschen",
+            "Dein Bauch",
+            "Das autogene Training",
+            "Zaubersprüche",
+            "Gewichtheben",
+            "Die progressive Muskelentspannung"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "katie-melua-album-no-8",
+        "name": "Katie Melua - Album No. 8",
+        "tracks": [
+            "A Love Like That",
+            "English Manner",
+            "Leaving the Mountain",
+            "Joy",
+            "Voices in the Night",
+            "Maybe I Dreamt It",
+            "Heading Home",
+            "Your Longing Is Gone",
+            "Airtime",
+            "Remind Me to Forget"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "katie-melua-secret-symphony",
+        "name": "Katie Melua Secret Symphony",
+        "tracks": [
+            "Gold In Them Hills",
+            "Better Than A Dream",
+            "The Bit That I Don't Get",
+            "Moonshine",
+            "Forgetting All My Troubles",
+            "All Over The World",
+            "Nobody Knows You When You're Down And Out",
+            "The Cry Of The Lone Wolf",
+            "Heartstrings",
+            "The Walls Of The World",
+            "Secret Symphony",
+            "Call Off The Search (Live In Stuttgart)",
+            "I Do Believe In Love (Live In Stuttgart)",
+            "Nine Million Bicycles (Live In Stuttgart)"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "pink-floyd-the-division-bell",
+        "name": "Pink Floyd The Division Bell",
+        "tracks": [
+            "Cluster One",
+            "What Do You Want From Me",
+            "Poles Apart",
+            "Marooned",
+            "A Great Day For Freedom",
+            "Wearing The Inside Out",
+            "Take It Back",
+            "Coming Back To Life",
+            "Keep Talking",
+            "Lost for Words",
+            "High Hopes"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "america-the-last-unicorn",
+        "name": "America The Last Unicorn",
+        "tracks": [
+            "The Last Unicorn",
+            "Man's Road",
+            "In The Sea",
+            "Now That I'm A Woman",
+            "That's All I've Got To Say",
+            "The Last Unicorn (part2)",
+            "Forest Awakens",
+            "Red Soup",
+            "Red Bull Attacks",
+            "The Cat",
+            "The Tree",
+            "Haggard's Unicorns",
+            "Bull-Unicorn-Woman",
+            "Unicorns In The Sea",
+            "Unicorn And Lear"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "cesaria-evora-anthology",
+        "name": "Cesaria Evora Anthology",
+        "tracks": [
+            "Sodade",
+            "Fala pa fala",
+            "Carnaval de sao vicente",
+            "Crepuscular sulidao",
+            "Cize",
+            "Petit pays",
+            "Tchintchirote",
+            "Angola",
+            "Vida tem um so vida",
+            "Bondade e maldade",
+            "Sangue de beirona",
+            "Flor di nha esperanca",
+            "Lua nha testemunha",
+            "Esperanca irisada",
+            "Nho antone escaderode",
+            "Fidjo maguado",
+            "Nutridinha",
+            "Tiempo y silencio with pedro guerra"
+        ],
+        "mode": "slow",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "putumayo-acoustic-africa",
+        "name": "Putumayo - Acoustic Africa",
+        "tracks": [
+            "Sore",
+            "Mindjer Dôce Mel",
+            "Misahotaka Ny Akama",
+            "Sedjedo",
+            "Basimanyana",
+            "Bana",
+            "Mauritania",
+            "Tradição",
+            "Baro",
+            "Palea",
+            "Antonia",
+            "Fanta Bourama"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "james-blunt-stay-the-night",
+        "name": "James Blunt - Stay The Night",
+        "tracks": [
+            "Stay The Night",
+            "Dangerous",
+            "Best Laid Plans",
+            "So Far Gone",
+            "No Tears",
+            "Superstar",
+            "These Are The Words",
+            "Calling Out Your Name",
+            "Heart Of Gold",
+            "I'll Be Your Man",
+            "If Time Is All I Have",
+            "Turn Me On"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "jarabe-de-palo-tragas-o-escupes",
+        "name": "Jarabe de Palo - Tragas o Escupes",
+        "tracks": [
+            "Vuelvo",
+            "Misteriosamente Hoy",
+            "Eso Que Tú Me Das",
+            "La Vida Es el Momento",
+            "Tragas o Escupes (feat. La Shica)",
+            "Los Ángeles Visten de Blanco",
+            "Valiente",
+            "Hombrecitos",
+            "Me Flechaste Ingrata",
+            "Los Peces No Tienen Corazón",
+            "Besos en el Ascensor"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "lena-good-news",
+        "name": "Lena - Good News",
+        "tracks": [
+            "A Good Day",
+            "A Million And One",
+            "At All",
+            "Good News",
+            "I Like You",
+            "Mama Told Me",
+            "Maybe",
+            "Push Forward",
+            "Taken By A Stranger",
+            "Teenage Girls",
+            "That Again",
+            "What Happened To Me Today"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "maria-gadu-maria-gadu",
+        "name": "Maria Gadú - Maria Gadú",
+        "tracks": [
+            "Bela flor",
+            "Altar particular",
+            "Dona Cila",
+            "Shimbalaiê",
+            "Escudos",
+            "Ne me quitte pas",
+            "Tudo diferente",
+            "Laranja",
+            "Lounge",
+            "Linda rosa",
+            "Encontro",
+            "A história de Lilly Braun",
+            "Baba"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "milow-north-and-south",
+        "name": "Milow - North And South",
+        "tracks": [
+            "Son",
+            "She Might She Might",
+            "You And Me (In My Pocket)",
+            "Little In The Middle",
+            "Building Bridges",
+            "Never Gonna Stop",
+            "Rambo",
+            "California Rain",
+            "Move To Town",
+            "The Kingdom",
+            "KGB"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "george-ezra-wanted-on-voyage",
+        "name": "George Ezra - Wanted on Voyage",
+        "tracks": [
+            "Blame It on Me",
+            "Budapest",
+            "Cassy O'",
+            "Barcelona",
+            "Listen to the Man",
+            "Leaving It Up to You",
+            "Did You Hear the Rain_",
+            "Stand by Your Gun",
+            "Breakaway",
+            "Over the Creek",
+            "Spectacular Rival",
+            "Song 6",
+            "It's Just My Skin",
+            "Da Vinci Riot Police",
+            "Blind Man in Amsterdam"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "amy-macdonald-life-in-a-beautiful-light",
+        "name": "Amy Macdonald - Life In A Beautiful Light",
+        "tracks": [
+            "4th Of July",
+            "Pride",
+            "Slow It Down",
+            "The Furthest Start",
+            "The Game",
+            "Across The Nile",
+            "The Days Of Being Young And Free",
+            "Left That Body Long Ago",
+            "Life In A Beautiful Light",
+            "Human Spirit",
+            "The Green And The Blue",
+            "In The End"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "amy-macdonald-this-is-the-life",
+        "name": "Amy Macdonald - This is the Life",
+        "tracks": [
+            "Mr Rock & Roll",
+            "This Is the Life",
+            "Poison Prince",
+            "Youth of Today",
+            "Run",
+            "Let's Start a Band",
+            "Barrowland Ballroom",
+            "L.A.",
+            "A Wish for Something More",
+            "Footballer's Wife",
+            "The Road to Home"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "caro-emerald-deleted-scenes-from-the-cutting-room-floor",
+        "name": "Caro Emerald - Deleted Scenes from the Cutting Room Floor",
+        "tracks": [
+            "That Man",
+            "Just One Dance",
+            "Riviera Life",
+            "Back It Up",
+            "The Other Woman",
+            "Absolutely Me",
+            "You Don't Love Me",
+            "Dr. Wanna Do",
+            "Stuck",
+            "I Know That He's Mine",
+            "A Night Like This",
+            "The Lipstick On His Collar Doesn't Seem To Match Mine"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "christophe-mae-mon-paradis",
+        "name": "Christophe Maé - Mon Paradis",
+        "tracks": [
+            "On S'attache",
+            "Mon Paradis",
+            "Belle Demoiselle",
+            "Parce Qu'on Ne Sait Jamais",
+            "Ca Fait Mal",
+            "L'art Et La Manière",
+            "C'est Ma Terre",
+            "Maman",
+            "Ma Vie Est Une Larme",
+            "Va Voir Ailleurs",
+            "Mon Père Spirituel",
+            "Spleen"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "e-rotic-thank-you-for-the-music",
+        "name": "E-Rotic - Thank You For The Music",
+        "tracks": [
+            "The Winner Takes It All",
+            "Angel Eyes",
+            "Fernando",
+            "Chiquitita",
+            "Lay All Your Love On Me",
+            "One Of Us",
+            "Dancing Queen",
+            "Money, Money, Money",
+            "S.O.S.",
+            "Waterloo",
+            "Thank You For The Music"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "james-blunt-moon-landing",
+        "name": "James Blunt - Moon Landing",
+        "tracks": [
+            "Face The Sun",
+            "Satellites",
+            "Bonfire Heart",
+            "Heart To Heart",
+            "Miss America",
+            "The Only One",
+            "Sun On Sunday",
+            "Bones",
+            "Always Hate Me",
+            "Postcards",
+            "Blue On Blue",
+            "Telephone",
+            "Kiss This Love Goodbye",
+            "Hollywood"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "abba-best-of",
+        "name": "Abba Best Of",
+        "tracks": [
+            "Dancing Queen",
+            "Knowing Me, Knowing You",
+            "Take a chance on me",
+            "Mamma mia",
+            "Lay all your love on me",
+            "Super trouper",
+            "I have a dream",
+            "The winner takes it all",
+            "Money, money, money",
+            "SOS",
+            "Chiquitita",
+            "Fernando",
+            "Voulez-vous",
+            "Gimme, gimme, gimme",
+            "Does your mother know",
+            "One of us",
+            "The name of the game",
+            "Thank you for the music",
+            "Waterloo",
+            "Honey Honey (MvH)"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "passenger-all-the-little-lights",
+        "name": "Passenger All The Little Lights",
+        "tracks": [
+            "Things That Stop You Dreaming",
+            "Let Her Go",
+            "Staring At the Stars",
+            "All the Little Lights",
+            "The Wrong Direction",
+            "Circles",
+            "Keep On Walking",
+            "Patient Love",
+            "Life's for the Living",
+            "Holes",
+            "Feather On the Clyde",
+            "I Hate (Live from the Borderline, London)"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "passenger-flight-of-the-crow",
+        "name": "Passenger Flight Of The Crow",
+        "tracks": [
+            "Month Of Sundays (feat. Brian Campeau & Elana Stone)",
+            "What You're Thinking (feat. Josh Pyke)",
+            "Shape of Love (feat. Boy & Bear)",
+            "The One You love (feat. Kate Miller Heidke)",
+            "Golden Thread (feat. Matt Corby)",
+            "Rivers (feat. Lior)",
+            "Travelling Song (feat. Gabrielle Huber & Cameron Potts)",
+            "The Girl Running (feat. Jess Chalker)",
+            "Diamonds (feat. Simon R. Beckleman)",
+            "Bloodstains (feat. Katie Noonan)",
+            "Flight Of The Crow (feat. Josh Pyke, Lior, Katie Noonan, Boy & Bear and Jess Chalker)"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "putumayo-calypso",
+        "name": "Putumayo Calypso",
+        "tracks": [
+            "Don't Touch Me Tomato",
+            "Yes Yes Yes",
+            "Take Me Back To Jamaica",
+            "Crazy Like Mad",
+            "Peas And Rice",
+            "Linstead Market",
+            "No More Rocking And Rolling",
+            "Goodbay Drum",
+            "Fed-A-Ray",
+            "Kim",
+            "Little Nassau",
+            "Barbados Carnival",
+            "J. P. Morgan",
+            "The Limbo Song",
+            "It's Always Springtime in Nassau"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "queen-made-in-heaven",
+        "name": "Queen Made In Heaven",
+        "tracks": [
+            "It´s A Beautiful Day",
+            "Made In Heaven",
+            "Let Me Live",
+            "Mother Love",
+            "My Life Has Been Saved",
+            "I Was Born To Love You",
+            "Heaven For Everyone",
+            "Too Much Love Will Kill You",
+            "You Don´t Fool Me",
+            "A Winter´s Tale",
+            "It´s A Beutiful Day (reprise)",
+            "(Untitled Instrumental)"
+        ],
+        "mode": "misc",
+        "topMode": "cds",
+        "allowRandom": true
+    },
+    {
+        "id": "joker-laila",
+        "name": "Joker Laila",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    },
+    {
+        "id": "joker-luis",
+        "name": "Joker Luis",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    },
+    {
+        "id": "joker-pw",
+        "name": "Joker PW",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    },
+    {
+        "id": "joker-sh",
+        "name": "Joker SH",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    },
+    {
+        "id": "mix-laila",
+        "name": "MIX Laila",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    },
+    {
+        "id": "mix-luis",
+        "name": "MIX Luis",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    },
+    {
+        "id": "mix-pw",
+        "name": "MIX PW",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    },
+    {
+        "id": "mix-sh",
+        "name": "Mix SH",
+        "tracks": [],
+        "mode": "misc",
+        "topMode": "extra",
+        "allowRandom": true
+    }
+]
