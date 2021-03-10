@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "mic": "^2.1.2",
+    "minisearch": "^3.0.2",
+    "node-wav-player": "^0.2.0",
+    "onoff": "^6.0.1",
+    "wav": "^1.0.2"
+  }
+}
