@@ -6,7 +6,7 @@ const button1 = new Gpio(5, 'in', 'falling', { debounceTimeout: 100 });
 const button2 = new Gpio(7, 'in', 'falling', { debounceTimeout: 100 });
 const button3 = new Gpio(15, 'in', 'falling', { debounceTimeout: 100 });
 const button4 = new Gpio(6, 'in', 'falling', { debounceTimeout: 100 });
-const led = new Gpio(21, 'out');
+const led = new Gpio(26, 'out');
 
 button1.watch(function () {
     console.log("button 1");
