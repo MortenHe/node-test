@@ -4,21 +4,19 @@ const { exec } = require('child_process');
 var FileWriter = require('wav').FileWriter;
 var mic = require('mic'); // requires arecord or sox, see https://www.npmjs.com/package/mic
 
-var micInstance = mic({
-    rate: 16000,
+//Mikroaufnahme: channel 1 = mono
+micInstance = mic({
+    rate: 48000,
     channels: 1,
-    //debug: true,
+    device: "hw:1,0",
+    debug: false,
     exitOnSilence: 10
 });
-
-var micInputStream = micInstance.getAudioStream();
-
-var outputFileStream = new FileWriter('./my-test.wav', {
-    sampleRate: 16000,
-    channels: 1,
-
+micInputStream = micInstance.getAudioStream();
+outputFileStream = new FileWriter(__dirname + '/stt.wav', {
+    sampleRate: 48000,
+    channels: 1
 });
-
 micInputStream.pipe(outputFileStream);
 
 micInputStream.on('silence', function () {
@@ -29,8 +27,4 @@ micInputStream.on('silence', function () {
 micInputStream.on('processExitComplete', function () {
     console.log("Got SIGNAL processExitComplete");
 });
-
 micInstance.start();
-
-
-//    micInstance.stop();
