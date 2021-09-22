@@ -2,7 +2,6 @@
     {
         "id": "00-bebl-joker",
         "name": "Benjamin Blümchen - 00 - Benjamin Joker",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -10,7 +9,6 @@
     {
         "id": "06-schule",
         "name": "Benjamin Blümchen - 06 - Die Schule",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -18,7 +16,6 @@
     {
         "id": "07-verliebt",
         "name": "Benjamin Blümchen - 07 - Verliebt sich",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -26,7 +23,6 @@
     {
         "id": "08-auf-dem-baum",
         "name": "Benjamin Blümchen - 08 - Auf dem Baum",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -34,7 +30,6 @@
     {
         "id": "12-brieftraeger",
         "name": "Benjamin Blümchen - 12 - Als Briefträger",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -42,7 +37,6 @@
     {
         "id": "17-auf-skiurlaub",
         "name": "Benjamin Blümchen - 17 - Auf Skiurlaub",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -50,7 +44,6 @@
     {
         "id": "18-schornsteinfeger",
         "name": "Benjamin Blümchen - 18 - Schornsteinfeger",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -58,7 +51,6 @@
     {
         "id": "21-weihnachtsmann",
         "name": "Benjamin Blümchen - 21 - Als Weihnachtsmann",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -66,7 +58,6 @@
     {
         "id": "22-kinderarzt",
         "name": "Benjamin Blümchen - 22 - Als Kinderarzt",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -74,7 +65,6 @@
     {
         "id": "26-bademeister",
         "name": "Benjamin Blümchen - 26 - Als Bademeister",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -82,7 +72,6 @@
     {
         "id": "27-auf-dem-bauernhof",
         "name": "Benjamin Blümchen - 27 - Auf dem Bauernhof",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -90,7 +79,6 @@
     {
         "id": "28-kindergarten",
         "name": "Benjamin Blümchen - 28 - Rettet den Kindergarten",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -98,7 +86,6 @@
     {
         "id": "31-feuerwehrmann",
         "name": "Benjamin Blümchen - 31 - Als Feuerwehrmann",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -106,7 +93,6 @@
     {
         "id": "32-die-verkehrsschule",
         "name": "Benjamin Blümchen - 32 - Die Verkehrsschule",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -114,7 +100,6 @@
     {
         "id": "34-lokomotivfuehrer",
         "name": "Benjamin Blümchen - 34 - Als Lokomotivführer",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -122,7 +107,6 @@
     {
         "id": "45-zirkusclown",
         "name": "Benjamin Blümchen - 45 - Als Zirkusclown",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -130,7 +114,6 @@
     {
         "id": "51-weihnachtsabend",
         "name": "Benjamin Blümchen - 51 - Der Weihnachtsabend",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -138,7 +121,6 @@
     {
         "id": "52-weihnachtstraum",
         "name": "Benjamin Blümchen - 52 - Der Weihnachtstraum",
-        "tracks": [],
         "mode": "bebl",
         "topMode": "hsp",
         "allowRandom": false
@@ -146,7 +128,6 @@
     {
         "id": "01-fohlen",
         "name": "Bibi und Tina - 01 - Das Fohlen",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -154,7 +135,6 @@
     {
         "id": "11-papis-pony",
         "name": "Bibi und Tina - 11 - Papis Pony",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -162,7 +142,6 @@
     {
         "id": "13-wildpferde1",
         "name": "Bibi und Tina - 13 - Die Wildpferde Teil 1",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -170,7 +149,6 @@
     {
         "id": "14-wildpferde2",
         "name": "Bibi und Tina - 14 - Die Wildpferde Teil 2",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -178,7 +156,6 @@
     {
         "id": "15-der-rote-hahn",
         "name": "Bibi und Tina - 15 - Der rote Hahn",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -186,7 +163,6 @@
     {
         "id": "16-knuddel",
         "name": "Bibi und Tina - 16 - Alle lieben Knuddel",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -194,7 +170,6 @@
     {
         "id": "17-herbstturnier",
         "name": "Bibi und Tina - 17 - Das Herbstturnier",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -202,7 +177,6 @@
     {
         "id": "20-mami-siegt",
         "name": "Bibi und Tina - 20 - Mami siegt",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -210,7 +184,6 @@
     {
         "id": "22-mikosch-kehrt-zurueck",
         "name": "Bibi und Tina - 22 - Mikosch kehrt zurück",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -218,7 +191,6 @@
     {
         "id": "23-ein-pferd-fuer-tante-paula",
         "name": "Bibi und Tina - 23 - Ein Pferd für Tante Paula",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -226,7 +198,6 @@
     {
         "id": "25-weihnachtsfest",
         "name": "Bibi und Tina - 25 - Das Weihnachtsfest",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -234,7 +205,6 @@
     {
         "id": "26-die-osterferien",
         "name": "Bibi und Tina - 26 - Die Osterferien",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -242,7 +212,6 @@
     {
         "id": "27-der-pferdegeburtstag",
         "name": "Bibi und Tina - 27 - Der Pferdegeburtstag",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -250,7 +219,6 @@
     {
         "id": "29-das-sprechende-pferd",
         "name": "Bibi und Tina - 29 - Das sprechende Pferd",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -258,7 +226,6 @@
     {
         "id": "61-biber",
         "name": "Bibi und Tina - 61 - Retten die Biber",
-        "tracks": [],
         "mode": "bibi-tina",
         "topMode": "hsp",
         "allowRandom": false
@@ -266,7 +233,6 @@
     {
         "id": "00-bob-joker",
         "name": "Bob der Baumeister - 00 - Bob Joker",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -307,7 +273,6 @@
     {
         "id": "04-kuschel-sorgt-fuer-aufregung",
         "name": "Bob der Baumeister - 04 - Kuschel sorgt für Aufregung",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -315,7 +280,6 @@
     {
         "id": "05-wendy-schafft-das",
         "name": "Bob der Baumeister - 05 - Wendy schafft das",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -323,7 +287,6 @@
     {
         "id": "06-bobs-rettung",
         "name": "Bob der Baumeister - 06 - Bobs Rettung",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -342,7 +305,6 @@
     {
         "id": "08-bob-und-die-vogelscheuchen",
         "name": "Bob der Baumeister - 08 - Bob und die Vogelscheuchen",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -350,7 +312,6 @@
     {
         "id": "09-mit-musik-geht-alles-besser",
         "name": "Bob der Baumeister - 09 - Mit Musik geht alles besser",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -358,7 +319,6 @@
     {
         "id": "10-bob-hilft-den-tieren",
         "name": "Bob der Baumeister - 10 - Bob hilft den Tieren",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -366,7 +326,6 @@
     {
         "id": "11-hurra-es-schneit",
         "name": "Bob der Baumeister - 11 - Hurra es schneit",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -374,7 +333,6 @@
     {
         "id": "12-bob-der-entdecker",
         "name": "Bob der Baumeister - 12 - Bob der Entdecker",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -382,7 +340,6 @@
     {
         "id": "13-alles-wird-gut",
         "name": "Bob der Baumeister - 13 - Alles wird gut",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -390,7 +347,6 @@
     {
         "id": "14-bobs-bunte-welt",
         "name": "Bob der Baumeister - 14 - Bobs bunte Welt",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -398,7 +354,6 @@
     {
         "id": "15-gemeinsam-sind-wir-stark",
         "name": "Bob der Baumeister - 15 - Gemeinsam sind wir stark",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -406,7 +361,6 @@
     {
         "id": "16-katzen-und-hunde",
         "name": "Bob der Baumeister - 16 - Katzen und Hunde",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -425,7 +379,6 @@
     {
         "id": "19-schreck-lass-nach",
         "name": "Bob der Baumeister - 19 - Schreck lass nach",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -444,7 +397,6 @@
     {
         "id": "21-bobs-entwurf",
         "name": "Bob der Baumeister - 21 - Bobs toller Entwurf",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -452,7 +404,6 @@
     {
         "id": "22-auf-ins-sonnenblumental",
         "name": "Bob der Baumeister - 22 - Auf ins Sonnenblumental",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -460,7 +411,6 @@
     {
         "id": "23-aufregung-im-sonnenblumental",
         "name": "Bob der Baumeister - 23 - Aufregung im Sonnenblumental",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -479,7 +429,6 @@
     {
         "name": "Bob der Baumeister - 25 - Knolle und die Strohballen",
         "id": "25-knolle-und-die-strohballen",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -487,7 +436,6 @@
     {
         "id": "26-buddels-lehmhuette",
         "name": "Bob der Baumeister - 26 - Buddels Lehmhütte",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -495,7 +443,6 @@
     {
         "id": "27-wendys-party",
         "name": "Bob der Baumeister - 27 - Wendys Party",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -503,7 +450,6 @@
     {
         "id": "28-bau-es-zusammen-knolle",
         "name": "Bob der Baumeister - 28 - Bau es zusammen Knolle",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -511,7 +457,6 @@
     {
         "id": "29-mixi-spielt-detektiv",
         "name": "Bob der Baumeister - 29 - Mixi spielt Detektiv",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -519,7 +464,6 @@
     {
         "id": "30-sprinti-und-die-bunte-hoehle",
         "name": "Bob der Baumeister - 30 - Sprinti und die bunte Höhle",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -527,7 +471,6 @@
     {
         "id": "31-knolles-grosse-ernte",
         "name": "Bob der Baumeister - 31 - Knolles große Ernte",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -590,7 +533,6 @@
     {
         "id": "99-bob-hilft-dem-weihnachtsmann",
         "name": "Bob der Baumeister - 99 - Bob hilft dem Weihnachtsmann",
-        "tracks": [],
         "mode": "bob",
         "topMode": "hsp",
         "allowRandom": false
@@ -937,7 +879,6 @@
     {
         "id": "01-kommt-in-den-kindergarten-und-macht-das-seepferdchen",
         "name": "Conni - 01 - Kommt in den Kindergarten & Macht das Seepferdchen",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -945,7 +886,6 @@
     {
         "id": "02-geht-zum-arzt-und-geht-in-die-schule",
         "name": "Conni - 02 - Geht zum Arzt & Geht in die Schule",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -953,7 +893,6 @@
     {
         "id": "03-auf-dem-bauernhof-und-das-neue-baby",
         "name": "Conni - 03 - Auf dem Bauernhof & Das neue Baby",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -961,7 +900,6 @@
     {
         "id": "04-lernt-reiten-und-geht-zelten",
         "name": "Conni - 04 - Lernt reiten & Geht zelten",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -969,7 +907,6 @@
     {
         "id": "05-erster-flug-und-geht-zum-zahnarzt",
         "name": "Conni - 05 - Connis erster Flug & Geht zum Zahnarzt",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -977,7 +914,6 @@
     {
         "id": "06-feiert-weihnachten-und-faehrt-ski",
         "name": "Conni - 06 - Feiert Weihnachten & Fährt Ski",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -985,7 +921,6 @@
     {
         "id": "07-zieht-um-und-macht-musik",
         "name": "Conni - 07 - Zieht um & Macht Musik",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -993,7 +928,6 @@
     {
         "id": "08-backt-pizza-und-lernt-rad-fahren",
         "name": "Conni - 08 - Backt Pizza & Lernt Rad fahren",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1001,7 +935,6 @@
     {
         "id": "09-im-krankenhaus-und-lernt-tanzen",
         "name": "Conni - 09 - Im Krankenhaus & Lernt tanzen",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1009,7 +942,6 @@
     {
         "id": "10-der-osterhase-und-spielt-fussball",
         "name": "Conni - 10 - Der Osterhase & Spielt Fußball",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1017,7 +949,6 @@
     {
         "id": "11-bekommt-eine-katze-und-hat-geburtstag",
         "name": "Conni - 11 - Bekommt eine Katze & Hat Geburtstag",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1025,7 +956,6 @@
     {
         "id": "12-auf-dem-reiterhof",
         "name": "Conni - 12 - Auf dem Reiterhof",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1033,7 +963,6 @@
     {
         "id": "13-der-liebesbrief",
         "name": "Conni - 13 - Der Liebesbrief",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1041,7 +970,6 @@
     {
         "id": "14-reist-ans-mittelmeer",
         "name": "Conni - 14 - Reist ans Mittelmeer",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1049,7 +977,6 @@
     {
         "id": "15-geht-auf-klassenfahrt",
         "name": "Conni - 15 - Geht auf Klassenfahrt",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1057,7 +984,6 @@
     {
         "id": "16-feiert-geburtstag",
         "name": "Conni - 16 - FHat Geburtstag",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1065,7 +991,6 @@
     {
         "id": "17-der-verschwundene-hund",
         "name": "Conni - 17 - Der verschwundene Hund",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1073,7 +998,6 @@
     {
         "id": "18-rettet-oma",
         "name": "Conni - 18 - Rettet Oma",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1081,7 +1005,6 @@
     {
         "id": "19-lernt-backen-und-hilft-mama",
         "name": "Conni - 19 - Lernt backen & Hilft Mama",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1089,7 +1012,6 @@
     {
         "id": "20-das-geheimnis-der-koi",
         "name": "Conni - 20 - Das Geheimnis der Koi",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1097,7 +1019,6 @@
     {
         "id": "21-schlaeft-im-kindergarten-und-geht-in-den-zoo",
         "name": "Conni - 21 - Schläft im Kindergarten & Geht in den Zoo",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1105,7 +1026,6 @@
     {
         "id": "22-die-jungs-von-nebenan",
         "name": "Conni - 22 - Die Jungs von nebenan",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1113,7 +1033,6 @@
     {
         "id": "23-das-ganz-spezielle-weihnachtsfest",
         "name": "Conni - 23 - Das ganz spezielle Weihnachtsfest",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1121,7 +1040,6 @@
     {
         "id": "24-das-hochzeitsfest",
         "name": "Conni - 24 - Das Hochzeitsfest",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1129,7 +1047,6 @@
     {
         "id": "25-in-der-grossen-stadt",
         "name": "Conni - 25 - In der großen Stadt",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1137,7 +1054,6 @@
     {
         "id": "26-die-verflixte-13",
         "name": "Conni - 26 - Die verflixte 13",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1145,7 +1061,6 @@
     {
         "id": "27-der-dinoknochen",
         "name": "Conni - 27 - Der Dinoknochen",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1153,7 +1068,6 @@
     {
         "id": "28-das-tanzende-pony",
         "name": "Conni - 28 - Das tanzende Pony",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1161,7 +1075,6 @@
     {
         "id": "29-der-grosse-schnee",
         "name": "Conni - 29 - Der große Schnee",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1169,7 +1082,6 @@
     {
         "id": "30-in-den-bergen-und-geht-verloren",
         "name": "Conni - 30 - In den Bergen & Geht verloren",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1177,7 +1089,6 @@
     {
         "id": "31-ist-krank-und-beim-frisoer",
         "name": "Conni - 31 - Ist krank & Beim Frisör",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1185,7 +1096,6 @@
     {
         "id": "32-rettet-die-tiere",
         "name": "Conni - 32 - Rettet die Tiere",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1193,7 +1103,6 @@
     {
         "id": "33-die-detektive",
         "name": "Conni - 33 - Die Detektive",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1201,7 +1110,6 @@
     {
         "id": "34-ihr-lieblingspony-und-geht-laterne-laufen",
         "name": "Conni - 34 - Ihr Lieblingspony & Geht Laterne laufen",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1209,7 +1117,6 @@
     {
         "id": "35-der-ferienzirkus",
         "name": "Conni - 35 - Der Ferienzirkus",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1217,7 +1124,6 @@
     {
         "id": "36-die-burg-der-vampire",
         "name": "Conni - 36 - Die Burg der Vampire",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1225,7 +1131,6 @@
     {
         "id": "37-uebernachtet-bei-julia-und-geht-nicht-mit-fremden-mit",
         "name": "Conni - 37 - Übernachtet bei Julia & Geht nicht mit Fremden mit",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1233,7 +1138,6 @@
     {
         "id": "38-macht-einen-ausflug-und-geht-auf-reisen",
         "name": "Conni - 38 - Macht einen Ausflug & Geht auf Reisen",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1241,7 +1145,6 @@
     {
         "id": "39-die-grosse-eiszeit",
         "name": "Conni - 39 - Die große Eiszeit",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1249,7 +1152,6 @@
     {
         "id": "40-das-neue-fohlen",
         "name": "Conni - 40 - Das neue Fohlen",
-        "tracks": [],
         "mode": "conni",
         "topMode": "hsp",
         "allowRandom": false
@@ -1382,7 +1284,6 @@
     {
         "id": "emil-gruenbaer-frosch",
         "name": "Janosch - Emil Grünbär - Der Frosch sitzt auf der Ofenbank",
-        "tracks": [],
         "mode": "janosch",
         "topMode": "hsp",
         "allowRandom": false
@@ -1390,7 +1291,6 @@
     {
         "id": "emil-gruenbaer-pflaumenkuchen",
         "name": "Janosch - Emil Grünbär - Pflaumenkuchen für Rebellen",
-        "tracks": [],
         "mode": "janosch",
         "topMode": "hsp",
         "allowRandom": false
@@ -1434,7 +1334,6 @@
     {
         "id": "neue-hasenkinder",
         "name": "Janosch - Die neuen Hasenkinder",
-        "tracks": [],
         "mode": "janosch",
         "topMode": "hsp",
         "allowRandom": false
@@ -1442,7 +1341,6 @@
     {
         "id": "rabe-josef",
         "name": "Janosch - Der Rabe Josef",
-        "tracks": [],
         "mode": "janosch",
         "topMode": "hsp",
         "allowRandom": false
@@ -1751,7 +1649,6 @@
     {
         "id": "madita",
         "name": "Madita",
-        "tracks": [],
         "mode": "lindgren",
         "topMode": "hsp",
         "allowRandom": false
@@ -1759,7 +1656,6 @@
     {
         "id": "rad",
         "name": "Mama Muh - Fährt Rad, lernt tauchen & geht angeln",
-        "tracks": [],
         "mode": "mama-muh",
         "topMode": "hsp",
         "allowRandom": false
@@ -1767,7 +1663,6 @@
     {
         "id": "schlitten",
         "name": "Mama Muh - Fährt Schlitten, im Dunkeln & Sankta Mucia",
-        "tracks": [],
         "mode": "mama-muh",
         "topMode": "hsp",
         "allowRandom": false
@@ -1775,7 +1670,6 @@
     {
         "id": "kletterbaum",
         "name": "Mama Muh - Der Kletterbaum",
-        "tracks": [],
         "mode": "mama-muh",
         "topMode": "hsp",
         "allowRandom": false
@@ -1783,7 +1677,6 @@
     {
         "id": "11-kindergarten",
         "name": "Max - 11 - Geht in den Kindergarten & Geht zum Kinderarzt",
-        "tracks": [],
         "mode": "max",
         "topMode": "hsp",
         "allowRandom": false
@@ -1791,7 +1684,6 @@
     {
         "id": "12-rad",
         "name": "Max - 12 - Lernt Rad fahren & Kocht Spaghetti",
-        "tracks": [],
         "mode": "max",
         "topMode": "hsp",
         "allowRandom": false
@@ -1811,7 +1703,6 @@
     {
         "id": "koenig",
         "name": "Die Olchis - Der faule König",
-        "tracks": [],
         "mode": "olchis",
         "topMode": "hsp",
         "allowRandom": false
@@ -1819,7 +1710,6 @@
     {
         "id": "schule",
         "name": "Die Olchis - Fliegen in die Schule",
-        "tracks": [],
         "mode": "olchis",
         "topMode": "hsp",
         "allowRandom": false
@@ -1827,7 +1717,6 @@
     {
         "id": "ziehen-um",
         "name": "Die Olchis - Ziehen um",
-        "tracks": [],
         "mode": "olchis",
         "topMode": "hsp",
         "allowRandom": false
@@ -1835,7 +1724,6 @@
     {
         "id": "00-pumuckl-joker",
         "name": "Pumuckl - 00 - Joker",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1843,7 +1731,6 @@
     {
         "id": "01-spuk-in-der-werkstat",
         "name": "Pumuckl - 01 - Spuk in der Werkstatt & Das verkaufte Bett",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1851,7 +1738,6 @@
     {
         "id": "02-das-neue-badezimmer",
         "name": "Pumuckl - 02 - Das neue Badezimmer & Das Schlossgespenst",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1859,7 +1745,6 @@
     {
         "id": "03-die-aberglaeubische-putzfrau",
         "name": "Pumuckl - 03 - Die abergläubische Putzfrau & In der Schule",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1867,7 +1752,6 @@
     {
         "id": "04-macht-ferien",
         "name": "Pumuckl - 04 - Macht Ferien & Der Geist des Wasser",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1875,7 +1759,6 @@
     {
         "id": "05-der-pudding",
         "name": "Pumuckl - 05 - Der Pudding & Der rätselhafte Hund",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1883,7 +1766,6 @@
     {
         "id": "06-wollpullover",
         "name": "Pumuckl - 06 - Der Wollpullover & Eder bekommt Besuch",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1891,7 +1773,6 @@
     {
         "id": "07-der-grosse-krach",
         "name": "Pumuckl - 07 - Der große Krach & Der große Krach und seine Folgen",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1899,7 +1780,6 @@
     {
         "id": "08-spanferkelessen",
         "name": "Pumuckl - 08 - Das Spanferkelessen & Puwackl",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1907,7 +1787,6 @@
     {
         "id": "09-die-angst",
         "name": "Pumuckl - 09 - Die Angst & Der verhängnisvolle Schlagrahm",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1915,7 +1794,6 @@
     {
         "id": "10-im-zoo",
         "name": "Pumuckl - 10 - Im Zoo & Die geheimnisvollen Briefe",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1923,7 +1801,6 @@
     {
         "id": "11-segelboot",
         "name": "Pumuckl - 11 - Das Segelboot & Das Spielzeugauto",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1931,7 +1808,6 @@
     {
         "id": "12-bergtour",
         "name": "Pumuckl - 12 - Die Bergtour & Die Schatzgräber",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1939,7 +1815,6 @@
     {
         "id": "13-pumuckls-rache",
         "name": "Pumuckl - 13 - Pumuckls Rache & Die Briefmarken",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1947,7 +1822,6 @@
     {
         "id": "14-goldene-herz",
         "name": "Pumuckl - 14 - Das goldene Herz & Der Waldspaziergang",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1955,7 +1829,6 @@
     {
         "id": "15-finderlohn",
         "name": "Pumuckl - 15 - Der Finderlohn & Die Kartenspieler",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1963,7 +1836,6 @@
     {
         "id": "16-mundharmonika",
         "name": "Pumuckl - 16 - Die Mundharmonika & Jetzt erst recht",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1971,7 +1843,6 @@
     {
         "id": "17-obstbaeume",
         "name": "Pumuckl - 17 - Die Obstbäume & Passt auf",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1979,7 +1850,6 @@
     {
         "id": "18-kopfwehtabletten",
         "name": "Pumuckl - 18 - Die Kopfwehtabletten & Der silberne Kegel",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1987,7 +1857,6 @@
     {
         "id": "19-foehniger-tag",
         "name": "Pumuckl - 19 - Ein föhniger Tag & Die Bank vor der Werkstatt",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -1995,7 +1864,6 @@
     {
         "id": "20-knackfroesche",
         "name": "Pumuckl - 20 - Die Knackfrösche & Wird reich",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2003,7 +1871,6 @@
     {
         "id": "21-gummi-ente",
         "name": "Pumuckl - 21 - Die Gummi-Ente & Der Blutfleck auf dem Stuhl",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2011,7 +1878,6 @@
     {
         "id": "22-knueller-fuer-die-zeitung",
         "name": "Pumuckl - 22 - Ein Knüller für die Zeitung & Das eigene Zimmer",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2019,7 +1885,6 @@
     {
         "id": "23-will-eine-uhr-haben",
         "name": "Pumuckl - 23 - Will eine Uhr haben & Ist an gar nichts schuld",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2027,7 +1892,6 @@
     {
         "id": "24-geburtstag",
         "name": "Pumuckl - 24 - Der Geburtstag & Die Blechbüchsen",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2035,7 +1899,6 @@
     {
         "id": "25-silberblumen",
         "name": "Pumuckl - 25 - Die Silberblumen & Das Telefon",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2043,7 +1906,6 @@
     {
         "id": "26-maus",
         "name": "Pumuckl - 26 - Die Maus & Die Tauben",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2051,7 +1913,6 @@
     {
         "id": "27-schmutz",
         "name": "Pumuckl - 27 - Der Schmutz & Die Katze",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2059,7 +1920,6 @@
     {
         "id": "28-spielt-mit-dem-feuer",
         "name": "Pumuckl - 28 - Spielt mit dem Feuer & Das Missverständnis",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2067,7 +1927,6 @@
     {
         "id": "29-geld",
         "name": "Pumuckl - 29 - Das Geld & Soll Ordnung lernen",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2075,7 +1934,6 @@
     {
         "id": "30-schnupfen",
         "name": "Pumuckl - 30 - Das grüne Gemälde & Der Schnupfen",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2083,7 +1941,6 @@
     {
         "id": "31-ostereier",
         "name": "Pumuckl - 31 - Die Ostereier & Der 1. April",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2091,7 +1948,6 @@
     {
         "id": "32-gespenst",
         "name": "Pumuckl - 32 - Das Gespenst im Gartenhaus & Die abgerissenen Tulpen",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2099,7 +1955,6 @@
     {
         "id": "33-geheimnisvolle-schaukel",
         "name": "Pumuckl - 33 - Die geheimnisvolle Schaukel & Hütet die Fische",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2107,7 +1962,6 @@
     {
         "id": "34-auf-hexenjagd",
         "name": "Pumuckl - 34 - Auf Hexenjagd & Hilfe eine Aushilfe",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2115,7 +1969,6 @@
     {
         "id": "35-die-gartenzwerge",
         "name": "Pumuckl - 35 - Die Gartenzwerge & Will Schreiner werden",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2123,7 +1976,6 @@
     {
         "id": "36-der-verbotene-kirschlikoer",
         "name": "Pumuckl - 36 - Der verbotene Kirschlikör & Der verdrechte Tag",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2131,7 +1983,6 @@
     {
         "id": "37-der-verstauchte-daumen",
         "name": "Pumuckl - 37 - Der verstauchte Daumen & Das Parfümfläschchen",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2139,7 +1990,6 @@
     {
         "id": "38-der-blaue-klabauter",
         "name": "Pumuckl - 38 - Der blaue Klabauter & Der Wellensittich",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2147,7 +1997,6 @@
     {
         "id": "39-alte-liebe",
         "name": "Pumuckl - 39 - Alte Liebe und Alleskleber & Wartet auf die Bescherung",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2155,7 +2004,6 @@
     {
         "id": "40-sieht-alles",
         "name": "Pumuckl - 40 - Sieht alles & Setzt sich nicht durch",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2163,7 +2011,6 @@
     {
         "id": "41-der-nikolaus",
         "name": "Pumuckl - 41 - Der Nikolaus & Auf heißer Spur",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2171,7 +2018,6 @@
     {
         "id": "42-die-weihnachtsgeschenke",
         "name": "Pumuckl - 42 - Das Weihnachtsgeschenke & Der erste Schnee",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2179,7 +2025,6 @@
     {
         "id": "43-die-christbaumkugeln",
         "name": "Pumuckl - 43 - Die Christbaumkugeln & Die Schatulle",
-        "tracks": [],
         "mode": "pumuckl",
         "topMode": "hsp",
         "allowRandom": false
@@ -2187,7 +2032,6 @@
     {
         "id": "bauernhof",
         "name": "Wieso Weshalb Warum - Bauernhof",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2195,7 +2039,6 @@
     {
         "id": "baustelle",
         "name": "Wieso Weshalb Warum - Baustelle",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2203,7 +2046,6 @@
     {
         "id": "am-meer",
         "name": "Wieso Weshalb Warum - Am Meer",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2211,7 +2053,6 @@
     {
         "id": "laster-bagger-traktoren",
         "name": "Wieso Weshalb Warum - Laster, Bagger, Traktoren",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2219,7 +2060,6 @@
     {
         "id": "polizei",
         "name": "Wieso Weshalb Warum - Polizei",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2227,7 +2067,6 @@
     {
         "id": "winter",
         "name": "Wieso Weshalb Warum - Winter",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2235,7 +2074,6 @@
     {
         "id": "eisenbahn",
         "name": "Wieso Weshalb Warum - Eisenbahn",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2243,7 +2081,6 @@
     {
         "id": "feuerwehr",
         "name": "Wieso Weshalb Warum - Feuerwehr",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2251,7 +2088,6 @@
     {
         "id": "pony",
         "name": "Wieso Weshalb Warum - Pony",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2259,7 +2095,6 @@
     {
         "id": "uhr-und-zeit",
         "name": "Wieso Weshalb Warum - Uhr und Zeit",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2267,7 +2102,6 @@
     {
         "id": "bei-uns-zu-hause",
         "name": "Wieso Weshalb Warum - Bei uns zu Hause",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2275,7 +2109,6 @@
     {
         "id": "dinosaurier",
         "name": "Wieso Weshalb Warum - Dinosaurier",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2283,7 +2116,6 @@
     {
         "id": "krankenhaus",
         "name": "Wieso Weshalb Warum - Krankenhaus",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2291,7 +2123,6 @@
     {
         "id": "schule",
         "name": "Wieso Weshalb Warum - Schule",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2299,7 +2130,6 @@
     {
         "id": "prinzessin",
         "name": "Wieso Weshalb Warum - Prinzessin",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2307,7 +2137,6 @@
     {
         "id": "wunder-der-natur",
         "name": "Wieso Weshalb Warum - Wunder der Natur",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2315,7 +2144,6 @@
     {
         "id": "umweltschutz",
         "name": "Wieso Weshalb Warum - Umweltschutz",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2323,7 +2151,6 @@
     {
         "id": "unser-baby",
         "name": "Wieso Weshalb Warum - Unser Baby",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2331,7 +2158,6 @@
     {
         "id": "essen",
         "name": "Wieso Weshalb Warum - Essen",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2339,7 +2165,6 @@
     {
         "id": "wetter",
         "name": "Wieso Weshalb Warum - Wetter",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2347,7 +2172,6 @@
     {
         "id": "koerper",
         "name": "Wieso Weshalb Warum - Körper",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2355,7 +2179,6 @@
     {
         "id": "heute-morgen-jetzt-und-gleich",
         "name": "Wieso Weshalb Warum - Heute, Morgen jetzt und gleich",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2363,7 +2186,6 @@
     {
         "id": "tierkinder",
         "name": "Wieso Weshalb Warum - Tierkinder",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2371,7 +2193,6 @@
     {
         "id": "cowboys",
         "name": "Wieso Weshalb Warum - Cowboys",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2379,7 +2200,6 @@
     {
         "id": "piraten",
         "name": "Wieso Weshalb Warum - Piraten",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2387,7 +2207,6 @@
     {
         "id": "deutschland",
         "name": "Wieso Weshalb Warum - Deutschland",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2395,7 +2214,6 @@
     {
         "id": "schiffe",
         "name": "Wieso Weshalb Warum - Schiffe",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2403,7 +2221,6 @@
     {
         "id": "feste-und-braeuche",
         "name": "Wieso Weshalb Warum - Feste und Bräuche",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2411,7 +2228,6 @@
     {
         "id": "wale-und-delfine",
         "name": "Wieso Weshalb Warum - Wale und Delfine",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2419,7 +2235,6 @@
     {
         "id": "nachttiere",
         "name": "Wieso Weshalb Warum - Nachttiere",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2427,7 +2242,6 @@
     {
         "id": "zaehne-putzen-pipi-machen",
         "name": "Wieso Weshalb Warum - Zähne putzen, Pipi machen",
-        "tracks": [],
         "mode": "wieso",
         "topMode": "hsp",
         "allowRandom": false
@@ -2435,7 +2249,6 @@
     {
         "id": "eisenofen",
         "name": "Der Eisenofen",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2443,7 +2256,6 @@
     {
         "id": "frieder-wieder-schreit",
         "name": "Frieder - Wieder schreit der Frieder: Oma!",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2451,7 +2263,6 @@
     {
         "id": "sams-1-woche-voller-samstage-1",
         "name": "Das Sams - 1 - Eine Woche voller Samstage (1)",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2459,7 +2270,6 @@
     {
         "id": "sams-2-woche-voller-samstage-2",
         "name": "Das Sams - 1 - Eine Woche voller Samstage (2)",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2467,7 +2277,6 @@
     {
         "id": "sams-3-am-samstag-kam-das-sams-zurueck",
         "name": "Das Sams - 2 - Am Samstag kam das Sams zurück",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2475,7 +2284,6 @@
     {
         "id": "sams-4-neue-punkte-fuer-das-sams",
         "name": "Das Sams - 3 - Neue Punkte für das Sams",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2483,7 +2291,6 @@
     {
         "id": "sams-5-ein-sams-fuer-martin-taschenbier-1",
         "name": "Das Sams - 4 - Ein Sams für Martin Taschenbier (1)",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2491,7 +2298,6 @@
     {
         "id": "sams-6-ein-sams-fuer-martin-taschenbier-2",
         "name": "Das Sams - 4 - Ein Sams für Martin Taschenbier (2)",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2510,7 +2316,6 @@
     {
         "id": "maerchen",
         "name": "Märchen",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2518,7 +2323,6 @@
     {
         "id": "erzaehl-mir-was",
         "name": "Erzähl mir was",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -2526,7 +2330,6 @@
     {
         "id": "uhubande",
         "name": "Die Uhubande löst ihren ersten Fall",
-        "tracks": [],
         "mode": "misc",
         "topMode": "hsp",
         "allowRandom": false
@@ -3411,7 +3214,6 @@
     {
         "id": "carus-kinderlieder",
         "name": "Carus - Kinderlieder",
-        "tracks": [],
         "mode": "misc",
         "topMode": "kindermusik",
         "allowRandom": true
@@ -3419,7 +3221,6 @@
     {
         "id": "carus-wiegenlieder",
         "name": "Carus - Wiegenlieder",
-        "tracks": [],
         "mode": "misc",
         "topMode": "kindermusik",
         "allowRandom": true
@@ -4281,7 +4082,6 @@
     {
         "id": "claudia-jung",
         "name": "Claudia Jung - Stumme Signale",
-        "tracks": [],
         "mode": "german",
         "topMode": "cds",
         "allowRandom": true
@@ -4289,7 +4089,6 @@
     {
         "id": "helene-fischer",
         "name": "Helene Fischer - Die Sonne kann warten",
-        "tracks": [],
         "mode": "german",
         "topMode": "cds",
         "allowRandom": true
@@ -4854,7 +4653,6 @@
     {
         "id": "joker-laila",
         "name": "Joker Laila",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
@@ -4862,7 +4660,6 @@
     {
         "id": "joker-luis",
         "name": "Joker Luis",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
@@ -4870,7 +4667,6 @@
     {
         "id": "joker-pw",
         "name": "Joker PW",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
@@ -4878,7 +4674,6 @@
     {
         "id": "joker-sh",
         "name": "Joker SH",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
@@ -4886,7 +4681,6 @@
     {
         "id": "mix-laila",
         "name": "MIX Laila",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
@@ -4894,7 +4688,6 @@
     {
         "id": "mix-luis",
         "name": "MIX Luis",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
@@ -4902,7 +4695,6 @@
     {
         "id": "mix-pw",
         "name": "MIX PW",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
@@ -4910,7 +4702,6 @@
     {
         "id": "mix-sh",
         "name": "Mix SH",
-        "tracks": [],
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
