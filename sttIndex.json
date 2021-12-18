@@ -4651,57 +4651,15 @@
         "allowRandom": true
     },
     {
-        "id": "joker-laila",
-        "name": "Joker Laila",
+        "id": "heart-mix-laila",
+        "name": "Herz Mix Laila",
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
     },
     {
-        "id": "joker-luis",
-        "name": "Joker Luis",
-        "mode": "misc",
-        "topMode": "extra",
-        "allowRandom": true
-    },
-    {
-        "id": "joker-pw",
-        "name": "Joker PW",
-        "mode": "misc",
-        "topMode": "extra",
-        "allowRandom": true
-    },
-    {
-        "id": "joker-sh",
-        "name": "Joker SH",
-        "mode": "misc",
-        "topMode": "extra",
-        "allowRandom": true
-    },
-    {
-        "id": "mix-laila",
-        "name": "MIX Laila",
-        "mode": "misc",
-        "topMode": "extra",
-        "allowRandom": true
-    },
-    {
-        "id": "mix-luis",
-        "name": "MIX Luis",
-        "mode": "misc",
-        "topMode": "extra",
-        "allowRandom": true
-    },
-    {
-        "id": "mix-pw",
-        "name": "MIX PW",
-        "mode": "misc",
-        "topMode": "extra",
-        "allowRandom": true
-    },
-    {
-        "id": "mix-sh",
-        "name": "Mix SH",
+        "id": "heart-mix-luis",
+        "name": "Herz Mix Luis",
         "mode": "misc",
         "topMode": "extra",
         "allowRandom": true
