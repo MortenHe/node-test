@@ -27,7 +27,6 @@ for (const [mode, data] of Object.entries(audiolist)) {
             //Eintrage mit RFID bei Karten sammeln
             for (let obj of result) {
                 cards[obj.rfid] = {
-                    "allowRandom": data.allowRandom,
                     "mode": mode,
                     "group": file.id,
                     "name": obj.name,

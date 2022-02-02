@@ -11,8 +11,8 @@ const stopWords = new Set([]);
 
 
 let miniSearch = new MiniSearch({
-    fields: ['name', 'tracks'], // fields to index for full-text search
-    storeFields: ['name', 'tracks'], // fields to return with search results
+    fields: ['name'], // fields to index for full-text search
+    storeFields: ['name'], // fields to return with search results
     //Stopwords fuer Indexierung und Suche entfernen
     processTerm: (term, _fieldName) => stopWords.has(term) ? null : term.toLowerCase(),
     //Name der Playlist staerker gewichten
